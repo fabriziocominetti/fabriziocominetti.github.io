@@ -3,7 +3,7 @@ Hi Everyone! 👋 Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio websit
 - 📌 Data Science at **University of Milano-Bicocca**
 - 📌 Digital Editor Intern at **AC Milan**
 
-# Portfolio
+<center><h1>Portfolio</h1></center>
 ---
 
 ## Data Science UnimiB
