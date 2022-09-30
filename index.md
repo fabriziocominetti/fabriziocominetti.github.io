@@ -1,7 +1,7 @@
-<center>Hi Everyone! 👋 Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio website<br/>
+<center>Hi Everyone! 👋 Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio website</center>
+
 - 📌 Data Science at **University of Milano-Bicocca**
 - 📌 Digital Editor Intern at **AC Milan**
-</center>
 
 # Portfolio
 ---
