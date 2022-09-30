@@ -135,8 +135,7 @@ Web scraping of every lines from all seasons of the tv show **The Office** follo
 <br />
 I've also collected data for the Moon Knight TV series, also from the Marvel Cinematic Universe. The data has been collected for two days after the release of the series and then compared to the first two days after the release of Morbius.</p>
 
-<img src ="./images/projects/morbius0.png" alt="morbius" width="250" height="250">
-<img src ="./images/projects/morbius1.png" alt="morbius" width="250" height="250">
+<img src ="./images/projects/morbius1.png" alt="morbius">
 
 ---
 ### Premier League Bar Chart Race
