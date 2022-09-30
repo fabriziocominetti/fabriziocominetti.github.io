@@ -1,6 +1,7 @@
-<center>Hi Everyone! 👋 Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio website</center>
-
-- 📌 I'm currently studying Data Science at **University of Milan-Bicocca**
+<center>Hi Everyone! 👋 Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio website<br/>
+- 📌 Data Science at **University of Milano-Bicocca**
+- 📌 Digital Editor Intern at **AC Milan**
+</center>
 
 # Portfolio
 ---
