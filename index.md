@@ -8,7 +8,7 @@ Hi Everyone! 👋 Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio websit
 <center><h1>Portfolio</h1></center>
 ---
 
-## Data Science UnimiB
+## Data Science UniMiB
 
 Collection of projects realized for the university courses @ University of Milano-Bicocca (2021-now). Some of those accomplished as university projects will be illustrated below ([GitHub](https://github.com/fabriziocominetti/data-science-UNIMIB)).
 
