@@ -6,16 +6,16 @@ description:
   <p align="center">
   <a href="documents/CV-FabrizioCominetti-online.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/fabriziocominetti/">LinkedIn</a> |
-  <a href="https://github.com/fabriziocominetti">GitHub</a> |
-  <a href="https://linktr.ee/fabriziocominetti">LinkTree</a>
+  <a href="https://github.com/fabriziocominetti">GitHub</a>
   </p>
   
   <p align="justify">
   Hi Everyone! 👋 Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio website
-  <ul>
-  <li>📌 Data Science at <b>University of Milano-Bicocca</b></li>
-  <li>📌 Digital Editor Intern at <b>AC Milan</b></li>
-  </ul>
+  📌 Data Science at <b>University of Milano-Bicocca</b>
+  📌 Digital Editor Intern at <b>AC Milan</b>
+  <p align="center">
+  <a href="https://linktr.ee/fabriziocominetti">LinkTree</a>
+  </p>
   </p>
   
 theme: jekyll-theme-minimal
