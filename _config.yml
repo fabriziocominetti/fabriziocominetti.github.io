@@ -1,5 +1,9 @@
 title: <p align="center"> Fabrizio Cominetti </p>
 
+<p align="center">
+<a href="https://linktr.ee/fabriziocominetti">LinkTree</a>
+</p>
+
 logo: "/images/picture.png?raw=true"
 
 description:
@@ -15,9 +19,6 @@ description:
   <li>📌 Data Science at <b>University of Milano-Bicocca</b></li>
   <li>📌 Digital Editor Intern at <b>AC Milan</b></li>
   </ul>
-  <p align="center">
-  <a href="https://linktr.ee/fabriziocominetti">LinkTree</a>
-  </p>
   </p>
   
 theme: jekyll-theme-minimal
