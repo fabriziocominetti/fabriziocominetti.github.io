@@ -10,10 +10,14 @@ description:
   </p>
   
   <p align="justify">
-  Hi Everyone! 👋 Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio website
+  Hi Everyone! 👋
+  <br>
+  Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio website
   <br><br>
-  - 📌 Data Science at **University of Milano-Bicocca**
-  - 📌 Digital Editor Intern at **AC Milan**
+   <ul>
+  <li>📌 Data Science at <b>University of Milano-Bicocca</b></li>
+  <li>📌 Digital Editor Intern at <b>AC Milan</b></li>
+  </ul>
   <br>
   <p align="center">
   <a href="https://linktr.ee/fabriziocominetti">LinkTree</a>
