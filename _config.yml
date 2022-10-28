@@ -18,9 +18,11 @@ description:
   <br />
   📌 Digital Editor Intern at <b>AC Milan</b>
   </p>
-  #<p align="center">
-  #<a href="https://linktr.ee/fabriziocominetti">LinkTree</a>
-  #</p>
+  <!--
+  <p align="center">
+  <a href="https://linktr.ee/fabriziocominetti">LinkTree</a>
+  </p>
+  -->
   </p>
   
 theme: jekyll-theme-minimal
