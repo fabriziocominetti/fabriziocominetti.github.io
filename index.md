@@ -59,6 +59,22 @@ We have therefore used the datasets provided by IMDb to answer the research ques
 <center><img src ="./images/projects/dataViz.png" alt="dviz"></center>
 
 ---
+### Financial Market Analytics
+
+My complete implementation of assignments and projects in [***Financial Market Analytics***](https://elearning.unimib.it/course/info.php?id=37918) by Unimib (2022).
+
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UNIMIB/blob/main/Financial%20Market%20Analytics/Report_FM.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UNIMIB/tree/main/Financial%20Market%20Analytics)
+
+**Portfolio Analysis**: financial market analytics project realized with `.py`
+
+<p style="color:#727272">In this group work, we want to better understand the structural characteristics that risk brings to real investment portfolios. In order to understand this empirically, we need to build real portfolios that are concentrated/tilted with respect to a specific level and kind of risk.<br />
+<br />
+The results showed that the portfolios created over-performed compared to the index during the period under consideration. However, the same results also showed higher volatility than that of the index.</p>
+
+<img src ="./images/projects/financial.png" alt="finm">
+
+---
 ## Football Analytics
 
 Collection of projects related to the field of football analytics. ([GitHub](https://github.com/fabriziocominetti/football-analytics)).
