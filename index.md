@@ -12,6 +12,22 @@ Hi Everyone! 👋 Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio websit
 
 Collection of projects realized for the university courses @ University of Milano-Bicocca (2021-now). Some of those accomplished as university projects will be illustrated below ([GitHub](https://github.com/fabriziocominetti/data-science-UNIMIB)).
 
+### Social Media Analytics
+
+My complete implementation of assignments and projects in [***Social Media Analytics***](https://elearning.unimib.it/course/info.php?id=44573) by Unimib (2023).
+
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UNIMIB/blob/main/Social%20Media%20Analytics/Report_SMA.pdf)
+[![View on GitHub](https://github.com/fabriziocominetti/data-science-UNIMIB/tree/main/Social%20Media%20Analytics)
+
+**Smart Working - Social Network and Content analysis**: social media analytics project realized with `.py`
+
+<p style="color:#727272">This project focuses on the analysis of the Twitter community and sentiment regarding the enunciated topic. Through the API, 2667 tweets related to the selected keywords were collected from December 26, 2022 to January 5, 2023. After an initial preprocessing phase based on text mining techniques, a Social Network Analysis (Nodes Degree, Assortativity, Community Detection) and a Social Content Analysis (Sentiment Analysis, Emotion Recognition) were performed.</p>
+
+<center><img src ="./images/projects/SMA_network.png" alt="SMAn"></center>
+<center><img src ="./images/projects/SMA_sentiment.png" alt="SMAc"></center>
+
+---
+
 ### Machine Learning
 
 My complete implementation of assignments and projects in [***Machine Learning and Decision Models***](https://elearning.unimib.it/course/info.php?id=37912) by Unimib (2022).
