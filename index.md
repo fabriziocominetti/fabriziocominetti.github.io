@@ -17,14 +17,13 @@ Collection of projects realized for the university courses @ University of Milan
 My complete implementation of assignments and projects in [***Social Media Analytics***](https://elearning.unimib.it/course/info.php?id=44573) by Unimib (2023).
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UNIMIB/blob/main/Social%20Media%20Analytics/Report_SMA.pdf)
-[![View on GitHub](https://github.com/fabriziocominetti/data-science-UNIMIB/tree/main/Social%20Media%20Analytics)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UNIMIB/tree/main/Social%20Media%20Analytics)
 
 **Smart Working - Social Network and Content analysis**: social media analytics project realized with `.py`
 
 <p style="color:#727272">This project focuses on the analysis of the Twitter community and sentiment regarding the enunciated topic. Through the API, 2667 tweets related to the selected keywords were collected from December 26, 2022 to January 5, 2023. After an initial preprocessing phase based on text mining techniques, a Social Network Analysis (Nodes Degree, Assortativity, Community Detection) and a Social Content Analysis (Sentiment Analysis, Emotion Recognition) were performed.</p>
 
 <center><img src ="./images/projects/SMA_network.png" alt="SMAn"></center>
-<center><img src ="./images/projects/SMA_sentiment.png" alt="SMAc"></center>
 
 ---
 
