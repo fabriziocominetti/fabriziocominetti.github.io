@@ -144,41 +144,25 @@ I've also collected data for the Moon Knight TV series, also from the Marvel Cin
 <img src ="./images/projects/morbius1.png" alt="morbius">
 
 ---
-### Premier League Bar Chart Race
+### Football Analytics
 
-<a href="https://github.com/fabriziocominetti/premier-league_bcr"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
-
-**EPL - Bar Chart Race** of Premier League standings from 1992 to 2016, realized with `.ipynb` and `Tableau`
-
-<center><img src ="./images/projects/premierLeague_bcr.gif" alt="premLeague"></center>
-
----
-## Football Analytics
-
-Collection of projects related to the field of football analytics. ([GitHub](https://github.com/fabriziocominetti/football-analytics)).
-
-### Expected Goals Lollipop
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-lollipop)
-[![View on Twitter](https://img.shields.io/badge/Twitter-View_on_Twitter-blue?logo=Twitter)](https://twitter.com/fcomi99/status/1559089938871746566)
-
-**Serie A - xG Lollipop**: football analytics project realized with `.py` and `matplotlib`
-
-<p style="color:#727272">In this viz, I replicated a chart posted by Soccermatics that showcased the xG timeline of a match in the Swedish league and applied it to Serie A's first-round fixtures. Here's the lollipop xG chart, but for the first matches of the 1st round of the Serie A 22/23 season.</p>
+Collection of projects related to the field of football analytics. Most of them can be found here on ([GitHub](https://github.com/fabriziocominetti/football-analytics)).
 
 <center><img src ="./images/projects/serieA_2223_round1.png" alt="xG"></center>
 
----
-### Expected Goals Rolling Plot
+**Serie A - xG Lollipop**: football analytics project realized with `.py` and `matplotlib`
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-rolling-plot)
-[![View on Twitter](https://img.shields.io/badge/Twitter-View_on_Twitter-blue?logo=Twitter)](https://twitter.com/fcomi99/status/1558762345509298177)
+<!-- <p style="color:#727272">In this viz, I replicated a chart posted by Soccermatics that showcased the xG timeline of a match in the Swedish league and applied it to Serie A's first-round fixtures. Here's the lollipop xG chart, but for the first matches of the 1st round of the Serie A 22/23 season.</p> -->
+
+<img src ="./images/projects/ACM-xG-rolling-plot.png" alt="xG">
 
 **xG Rolling Plot**: football analytics project realized with `.py` and `matplotlib`
 
-<p style="color:#727272">AC Milan won a second place in the 20-21 season and a first place in the 21-22 Serie A season. Under the leadership of Coach Pioli, the team has always expressed a quality football, dangerous in attack and with constant growth in defense. This visualization aims to compare xG created and conceded during these two seasons.</p>
+<!-- <p style="color:#727272">AC Milan won a second place in the 20-21 season and a first place in the 21-22 Serie A season. Under the leadership of Coach Pioli, the team has always expressed a quality football, dangerous in attack and with constant growth in defense. This visualization aims to compare xG created and conceded during these two seasons.</p>  -->
 
-<img src ="./images/projects/ACM-xG-rolling-plot.png" alt="xG">
+<center><img src ="./images/projects/premierLeague_bcr.gif" alt="premLeague"></center>
+
+**EPL - Bar Chart Race** of Premier League standings from 1992 to 2016, realized with `.ipynb` and `Tableau`
 
 ---
 <center>© 2022 Fabrizio Cominetti. Powered by Jekyll and the Minimal Theme.</center>
