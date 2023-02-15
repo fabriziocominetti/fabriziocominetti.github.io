@@ -154,7 +154,7 @@ Collection of projects related to the field of football analytics. Most of them 
 
 <!-- <p style="color:#727272">In this viz, I replicated a chart posted by Soccermatics that showcased the xG timeline of a match in the Swedish league and applied it to Serie A's first-round fixtures. Here's the lollipop xG chart, but for the first matches of the 1st round of the Serie A 22/23 season.</p> -->
 
-<img src ="./images/projects/ACM-xG-rolling-plot.png" alt="xG">
+<center><img src ="./images/projects/ACM-xG-rolling-plot.png" alt="xG"></center>
 
 **xG Rolling Plot**: football analytics project realized with `.py` and `matplotlib`
 
