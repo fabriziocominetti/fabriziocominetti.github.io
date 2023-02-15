@@ -11,3 +11,5 @@
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/?.pdf)
 
 [![VIew on Kaggle](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle)](https://kaggle.com/fabriziocominetti/)
+
+[![View on Twitter](https://img.shields.io/badge/Twitter-View_on_Twitter-blue?logo=Twitter)](https://twitter.com/profileUsername/status/tweetID)
