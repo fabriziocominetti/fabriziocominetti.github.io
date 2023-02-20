@@ -94,6 +94,18 @@ The results showed that the portfolios created over-performed compared to the in
 
 Various data science projects. ([GitHub](https://github.com/fabriziocominetti/))
 
+### FantaSanremo
+
+<a href="https://github.com/fabriziocominetti/fantasanremo"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
+
+**FantaSanremo** trend and sentiment analysis project; realized with `.py`
+
+<p style="color:#727272">The Sanremo Festival is becoming increasingly social. And so, companies and content creators are also following the events of the festival to stay up-to-date on possible trends to exploit and opportunities to grow. In recent years, "FantaSanremo" - a game that involves viewers but also in competing singers - has been popular among young and old. This project focuses on analyzing tweets related to the #FantaSanremo 2023 edition, and aims to analyze content, the most relevant hashtags, and sentiment related to the topic of interest.</p>
+
+<img src ="./images/projects/fantasanremo_tweets-date.png" alt="fantasanremo">
+
+<img src ="./images/projects/fantasanremo_wc.png" alt="fantasanremo">
+
 ### Billboard Hot-100 EDA
 
 <a href="https://github.com/fabriziocominetti/billboard"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
