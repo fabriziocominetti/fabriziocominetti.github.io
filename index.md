@@ -100,7 +100,7 @@ Various data science projects. ([GitHub](https://github.com/fabriziocominetti/))
 
 **FantaSanremo** trend and sentiment analysis project; realized with `.py`
 
-<p style="color:#727272">The Sanremo Festival is becoming increasingly social. And so, companies and content creators are also following the events of the festival to stay up-to-date on possible trends to exploit and opportunities to grow. In recent years, "FantaSanremo" - a game that involves viewers but also in competing singers - has been popular among young and old. This project focuses on analyzing tweets related to the #FantaSanremo 2023 edition, and aims to analyze content, the most relevant hashtags, and sentiment related to the topic of interest.</p>
+<p style="color:#727272">The "Sanremo Festival" is becoming increasingly social. And so, companies and content creators also follow the events of the kermesse to stay up-to-date on any trends to be exploited and opportunities for growth. In recent years, "FantaSanremo" - a game that involves viewers but also the singers in the competition - has become very popular among young and old enthusiasts. This project focuses on analyzing tweets related to the 2023 edition of #FantaSanremo, with the goal of analyzing content, the most relevant hashtags and sentiment related to the topic of interest.</p>
 
 <img src ="./images/projects/fantasanremo_tweets-date.png" alt="fantasanremo">
 
