@@ -98,7 +98,7 @@ Various data science projects. ([GitHub](https://github.com/fabriziocominetti/))
 
 <a href="https://github.com/fabriziocominetti/fantasanremo"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 
-**FantaSanremo** trend and sentiment analysis project; realized with `.py`
+**FantaSanremo** Trend and Sentiment Analysis project; realized with `.py`
 
 <p style="color:#727272">The "Sanremo Festival" is becoming increasingly social. And so, companies and content creators also follow the events of the kermesse to stay up-to-date on any trends to be exploited and opportunities for growth. In recent years, "FantaSanremo" - a game that involves viewers but also the singers in the competition - has become very popular among young and old enthusiasts. This project focuses on analyzing tweets related to the 2023 edition of #FantaSanremo, with the goal of analyzing content, the most relevant hashtags and sentiment related to the topic of interest.</p>
 
@@ -110,19 +110,19 @@ Various data science projects. ([GitHub](https://github.com/fabriziocominetti/))
 
 <a href="https://github.com/fabriziocominetti/billboard"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 
-Exploratory data analysis of **Billboard's Hot-100 Weekly Charts**; realized with `SQLite` and `Tableau`
+Exploratory Data Analysis of **Billboard's Hot-100 Weekly Charts**; realized with `SQLite` and `Tableau`
 
 <p style="color:#727272">The Billboard Hot 100 is the music industry standard record chart in the United States for songs, published weekly by Billboard magazine. I've performed an exploratory data analysis of the Billboard dataset containing all the charts from 1958 to today. Finally, I've pictured some results obtained in a dashboard.</p>
 
 <img src ="./images/projects/billboard.png" alt="billboard">
 
 ---
-### Serie A xG EDA
+### Serie A xG
 
 <a href="https://github.com/fabriziocominetti/football-analytics/tree/main/xG-SerieA-2122"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/xG-serieA-2122.html)
 
-Web scraping and exploratory data analysis of FBref's **Serie A Expected Goals Standing**; realized with `.py`
+Web Scraping and Exploratory Data Analysis of FBref's **Serie A Expected Goals Standing**; realized with `.py`
 
 <p style="color:#727272">Web scraping of data from the FBref website to analyze the current state-of-doing of the Serie A Italian championship of football with requests and BeautifulSoup. At the time of the project, the break for the national teams leaves the league as is, with 8-9 games to play and with many situations to be determined. These last matches could make the difference between an extraordinary season and an undertone season, or a season where the team achieves its goals.<br />
 <br />
@@ -131,23 +131,23 @@ The dataset contains info on classic football data with the addition of xG, a me
 <img src ="./images/projects/xG-serieA-2122.png" alt="serieA">
 
 ---
-### The Office EDA
+### The Office
 
 <a href="https://github.com/fabriziocominetti/the-office"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <a href="https://kaggle.com/fabriziocominetti/the-office-lines"><img src="https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle" alt="View on Kaggle"></a>
 
-Web scraping of every lines from all seasons of the tv show **The Office** followed by an exploratory data analysis and a sentiment analysis of the extracted data; realized with `BeautifulSoup`, `PowerBI` and `VADER`
+Web Scraping of every lines from all seasons of the TV show **The Office** followed by an Exploratory Data Analysis and a Sentiment Analysis of the extracted data; realized with `BeautifulSoup`, `PowerBI` and `VADER`
 
 <p style="color:#727272">The Office is an American mockumentary sitcom television series that depicts the everyday work lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company. In this project, I've firstly scraped all the lines of the TV show in a CSV file, then I've performed in two different jupyter notebooks an exploratory data analysis and a sentiment analysis of all the lines.</p>
 
 <center><img src ="./images/projects/theoffice.png" alt="theOffice"></center>
 
 ---
-### Morbius Sentiment Analysis
+### Morbius
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/morbius)
 
-**Morbius** data collection from the Twitter API and sentiment analysis; project realized with `Tweepy` and `VADER`
+**Morbius & Moon Knight** Sentiment Analysis project; realized with `Tweepy` and `VADER`
 
 <p style="color:#727272">Morbius is a film of the Marvel catalogue. I've collected tweets containing the keyword 'Morbius' with the Twitter API to analyze the sentiment that followed the release of the film. The data has been collected for the subsequent 4 days and then compared in a kdeplot.<br />
 <br />
