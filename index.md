@@ -10,14 +10,14 @@ Hi Everyone! 👋 Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio websit
 
 ## Data Science UniMiB
 
-Collection of projects realized for the university courses @ University of Milano-Bicocca (2021-now). Some of those accomplished as university projects will be illustrated below ([GitHub](https://github.com/fabriziocominetti/data-science-UNIMIB)).
+Collection of projects realized for the university courses @ University of Milano-Bicocca (2021-now). Some of those accomplished as university projects will be illustrated below ([GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)).
 
 ### Social Media Analytics
 
-My complete implementation of assignments and projects in [***Social Media Analytics***](https://elearning.unimib.it/course/info.php?id=44573) by Unimib (2023).
+My complete implementation of assignments and projects in [***Social Media Analytics***](https://elearning.unimib.it/course/info.php?id=44573) by UniMiB (2023).
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UNIMIB/blob/main/Social%20Media%20Analytics/Report_SMA.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UNIMIB/tree/main/Social%20Media%20Analytics)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Social%20Media%20Analytics/Report_SMA.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Social%20Media%20Analytics)
 
 **Smart Working - Social Network and Content analysis**: social media analytics project realized with `.py`
 
@@ -26,13 +26,28 @@ My complete implementation of assignments and projects in [***Social Media Analy
 <center><img src ="./images/projects/SMA_network.png" alt="SMAn"></center>
 
 ---
+### Financial Market Analytics
 
+My complete implementation of assignments and projects in [***Financial Market Analytics***](https://elearning.unimib.it/course/info.php?id=37918) by UniMiB (2022).
+
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Financial%20Market%20Analytics/Report_FM.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Financial%20Market%20Analytics)
+
+**Portfolio Analysis**: financial market analytics project realized with `.py`
+
+<p style="color:#727272">In this group work, we want to better understand the structural characteristics that risk brings to real investment portfolios. In order to understand this empirically, we need to build real portfolios that are concentrated/tilted with respect to a specific level and kind of risk.<br />
+<br />
+The results showed that the portfolios created over-performed compared to the index during the period under consideration. However, the same results also showed higher volatility than that of the index.</p>
+
+<img src ="./images/projects/financial.png" alt="finm">
+
+---
 ### Machine Learning
 
-My complete implementation of assignments and projects in [***Machine Learning and Decision Models***](https://elearning.unimib.it/course/info.php?id=37912) by Unimib (2022).
+My complete implementation of assignments and projects in [***Machine Learning and Decision Models***](https://elearning.unimib.it/course/info.php?id=37912) by UniMiB (2022).
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UNIMIB/blob/main/Machine%20Learning/Report_ML.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UNIMIB/tree/main/Machine%20Learning)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Machine%20Learning/Report_ML.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Machine%20Learning)
 
 **Climate Change - Temperature Prediction**: machine learning classification project realized with `Knime`
 
@@ -43,10 +58,10 @@ My complete implementation of assignments and projects in [***Machine Learning a
 ---
 ### Data Management
 
-My complete implementation of assignments and projects in [***Data Management***](https://elearning.unimib.it/course/info.php?id=37922) by Unimib (2022).
+My complete implementation of assignments and projects in [***Data Management***](https://elearning.unimib.it/course/info.php?id=37922) by UniMiB (2022).
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UNIMIB/blob/main/Data%20Management/Report_DM.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UNIMIB/tree/main/Data%20Management)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Management/Report_DM.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Management)
 
 **Marvel Graph Database**: data management project realized with `Neo4j`
 
@@ -59,11 +74,11 @@ The final database is complete of the various relationships between characters, 
 ---
 ### Data Visualization
 
-My complete implementation of assignments and projects in [***Data Visualization***](https://elearning.unimib.it/course/info.php?id=26218#en) by Unimib (2022).
+My complete implementation of assignments and projects in [***Data Visualization***](https://elearning.unimib.it/course/info.php?id=26218#en) by UniMiB (2022).
 
 [![Open in Browser](https://img.shields.io/badge/HTML-Open%20in%20Browser-red)](./projects/dataViz/dataViz.html)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UNIMIB/blob/main/Data%20Visualization/AbeteAgazziCominetti.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UNIMIB/tree/main/Data%20Visualization)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Visualization/AbeteAgazziCominetti.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Visualization)
 
 **Film - Rating and Duration Time**: data visualization project realized with `Bokeh`
 
@@ -74,20 +89,18 @@ We have therefore used the datasets provided by IMDb to answer the research ques
 <center><img src ="./images/projects/dataViz.png" alt="dviz"></center>
 
 ---
-### Financial Market Analytics
+### Text Mining and Search
 
-My complete implementation of assignments and projects in [***Financial Market Analytics***](https://elearning.unimib.it/course/info.php?id=37918) by Unimib (2022).
+My complete implementation of assignments and projects in [***Text Mining and Search***](https://elearning.unimib.it/course/info.php?id=44576) by UniMiB (2023).
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UNIMIB/blob/main/Financial%20Market%20Analytics/Report_FM.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UNIMIB/tree/main/Financial%20Market%20Analytics)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Text%20Mining%20and%20Search/Report_TMS.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Text%20Mining%20and%20Search)
 
-**Portfolio Analysis**: financial market analytics project realized with `.py`
+**IMDB Reviews - Text Classification and Clustering**: text mining and search project realized with `.py`
 
-<p style="color:#727272">In this group work, we want to better understand the structural characteristics that risk brings to real investment portfolios. In order to understand this empirically, we need to build real portfolios that are concentrated/tilted with respect to a specific level and kind of risk.<br />
-<br />
-The results showed that the portfolios created over-performed compared to the index during the period under consideration. However, the same results also showed higher volatility than that of the index.</p>
+<p style="color:#727272">In this project, user reviews from the IMDB platform were analyzed through the use of text mining techniques. After carrying out an initial phase of text processing and text representation, the project continued with the classification of the reviews, through some text classification techniques - such as Support Vector Machines (SVM), Multilayer Perceptron (MLP), and Logistic Regression. Next, a text clustering phase was carried out through the use of two algorithms: DBSCAN and k-means.</p>
 
-<img src ="./images/projects/financial.png" alt="finm">
+<center><img src ="./images/projects/TMS_k-means.png" alt="TMS"></center>
 
 ---
 ## Data Science
