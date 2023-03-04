@@ -100,7 +100,7 @@ My complete implementation of assignments and projects in [***Text Mining and Se
 
 <p style="color:#727272">In this project, user reviews from the IMDB platform were analyzed through the use of text mining techniques. After carrying out an initial phase of text processing and text representation, the project continued with the classification of the reviews, through some text classification techniques - such as Support Vector Machines (SVM), Multilayer Perceptron (MLP), and Logistic Regression. Next, a text clustering phase was carried out through the use of two algorithms: DBSCAN and k-means.</p>
 
-<!-- <center><img src ="./images/projects/TMS_k-means.png" alt="TMS"></center> -->
+<center><img src ="./images/projects/TMS.png" alt="TMS"></center>
 
 ---
 ## Data Science
