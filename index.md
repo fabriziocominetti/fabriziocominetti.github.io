@@ -77,7 +77,7 @@ The final database is complete of the various relationships between characters, 
 My complete implementation of assignments and projects in [***Data Visualization***](https://elearning.unimib.it/course/info.php?id=26218#en) by UniMiB (2022).
 
 [![Open in Browser](https://img.shields.io/badge/HTML-Open%20in%20Browser-red)](./projects/dataViz/dataViz.html)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Visualization/AbeteAgazziCominetti.pdf)
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Visualization/Report_DV.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Visualization)
 
 **Film - Rating and Duration Time**: data visualization project realized with `Bokeh`
@@ -100,7 +100,7 @@ My complete implementation of assignments and projects in [***Text Mining and Se
 
 <p style="color:#727272">In this project, user reviews from the IMDB platform were analyzed through the use of text mining techniques. After carrying out an initial phase of text processing and text representation, the project continued with the classification of the reviews, through some text classification techniques - such as Support Vector Machines (SVM), Multilayer Perceptron (MLP), and Logistic Regression. Next, a text clustering phase was carried out through the use of two algorithms: DBSCAN and k-means.</p>
 
-<center><img src ="./images/projects/TMS_k-means.png" alt="TMS"></center>
+<!-- <center><img src ="./images/projects/TMS_k-means.png" alt="TMS"></center> -->
 
 ---
 ## Data Science
