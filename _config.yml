@@ -11,11 +11,13 @@ description:
   
   <p align="justify">
   <p align="center">
-  Hi Everyone! 👋 <br /> Welcome to <span style="color:#500000">Fabrizio Cominetti</span>'s portfolio website
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&pause=1000&color=500000&width=435&lines=Hi+Everyone!+%F0%9F%91%8B;Welcome+to+Fabrizio+Cominetti's+portfolio+website" alt="Typing SVG" /></a>
   </p>
+  <p align="center">
   📌 Data Science at <i>University of Milano-Bicocca</i>
   <br />
   📌 Digital Editor at <i>AC Milan</i>
+  </p>
   </p>
   
 theme: jekyll-theme-minimal
