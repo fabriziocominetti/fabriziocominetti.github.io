@@ -3,7 +3,7 @@
 
 ## Data Science UniMiB
 
-Collection of projects realized for the university courses @ University of Milano-Bicocca (2021-now). Some of those accomplished as university projects will be illustrated below ([GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)).
+Collection of projects realized for the university courses ([UniMiB](https://www.unimib.it/)) (2021-now). Some of those accomplished as university projects will be illustrated below ([GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)).
 
 ### Social Media Analytics
 
