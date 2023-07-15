@@ -11,13 +11,11 @@ description:
   
   <p align="justify">
   <p align="center">
-  Hi Everyone! 👋 Welcome to <b><i>Fabrizio Cominetti</i></b>'s portfolio website
+  Hi Everyone! 👋 <br /> Welcome to <span style="color:#500000">Fabrizio Cominetti</span>'s portfolio website
   </p>
-  <p align="center">
-  📌 Data Science at <b>University of Milano-Bicocca</b>
+  📌 Data Science at <i>University of Milano-Bicocca</i>
   <br />
-  📌 Digital Editor at <b>AC Milan</b>
-  </p>
+  📌 Digital Editor at <i>AC Milan</i>
   </p>
   
 theme: jekyll-theme-minimal
