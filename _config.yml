@@ -9,15 +9,12 @@ description:
   <a href="https://github.com/fabriziocominetti">GitHub</a>
   </p>
   
-  <p align="justify">
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&pause=1000&color=500000&width=435&lines=Hi+Everyone!+%F0%9F%91%8B;Welcome+to+Fabrizio+Cominetti's+portfolio+website" alt="Typing SVG" /></a>
-  </p>
-  <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&size=25&pause=1000&color=500000&center=true&vCenter=true&width=450&lines=Hi+Everyone!+%F0%9F%91%8B;Welcome+to+Fabrizio+Cominetti's+portfolio+website" alt="Typing SVG" /></a>
+  <br />
   📌 Data Science at <i>University of Milano-Bicocca</i>
   <br />
   📌 Digital Editor at <i>AC Milan</i>
-  </p>
   </p>
   
 theme: jekyll-theme-minimal
