@@ -3,7 +3,7 @@
 
 ## Data Science UniMiB
 
-Collection of projects realized for the university courses ([UniMiB](https://www.unimib.it/)) (2021-now). Some of those accomplished as university projects will be illustrated below ([GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)).
+Collection of projects realized for the university courses [@UniMiB](https://www.unimib.it/) (2021-now). Some of those accomplished as university projects will be illustrated below ([GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)).
 
 ### Social Media Analytics
 
@@ -182,9 +182,11 @@ Collection of projects related to the field of football analytics. Most of them 
 
 **Serie A - Team Nemesis**: football analytics project realized with `.py` and `matplotlib`
 
+<!-- 
 <center><img src ="./images/projects/premierLeague_bcr.gif" alt="premLeague"></center>
 
 **EPL - Bar Chart Race** of Premier League standings from 1992 to 2016, realized with `.ipynb` and `Tableau`
+-->
 
 ---
 <center>© 2022 Fabrizio Cominetti. Powered by Jekyll and the Minimal Theme.</center>
