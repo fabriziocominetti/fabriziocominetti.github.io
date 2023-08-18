@@ -112,7 +112,7 @@ My complete implementation of assignments and projects in [***Text Mining and Se
 print("Data Science")
 ```
 
-Various data science projects. ([GitHub](https://github.com/fabriziocominetti/))
+Collection of various data science projects. Explore them on ([GitHub](https://github.com/fabriziocominetti/))
 
 ### FantaSanremo
 
