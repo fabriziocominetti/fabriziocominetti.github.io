@@ -1,6 +1,15 @@
 <center><h1>Portfolio</h1></center>
 ---
 
+```sql
+SELECT * FROM sections
+```
+- [Data Science UniMiB](#data-science-unimib)
+- [Data Science](#data-science)
+- [Football Analytics](#football-analytics)
+
+---
+## ***Data Science UniMiB***
 ```python
 print("Data Science UniMiB")
 ```
@@ -98,6 +107,7 @@ My complete implementation of assignments and projects in [***Text Mining and Se
 <center><img src ="./images/projects/TMS.png" alt="TMS"></center>
 
 ---
+## ***Data Science***
 ```python
 print("Data Science")
 ```
@@ -166,6 +176,7 @@ I've also collected data for the Moon Knight TV series, also from the Marvel Cin
 <img src ="./images/projects/morbius1.png" alt="morbius">
 
 ---
+## ***Football Analytics***
 ```python
 print("Football Analytics")
 ```
