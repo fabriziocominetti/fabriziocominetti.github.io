@@ -30,6 +30,20 @@ My complete implementation of assignments and projects in [***Social Media Analy
 <center><img src ="./images/projects/SMA_network.png" alt="SMAn"></center>
 
 ---
+### Data Science Lab on Smart Cities
+
+My complete implementation of assignments and projects in [***Data Science Lab on Smart Cities***](https://elearning.unimib.it/course/info.php?id=44571) by UniMiB (2023).
+
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Science%20Lab%20on%20Smart%20Cities/Report_DSLab-SmartCities.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Science%20Lab%20on%20Smart%20Cities)
+
+**Mobility in Northern Sardinia**: ds lab for smart cities project realized with `.py`
+
+<p style="color:#727272">In this project, we're diving into how people move around in the northern part of Sardinia, starting from the arrivals by airports and ports and focusing mainly on public transport stops to reach key facilities. Transportation is a big deal for making places thrive, and the goal is to understand this and find ways to improve it. Several indicators are calculated, accompanied by data visualizations. As for airports and ports, the project aims to examine the flows both on a seasonal basis, differentiating by the airport of arrival and departure, and by checking the number of domestic and foreign tourists. The analysis then focuses in particular on the situation of public transportation for tourists, analyzing their current conditions and the possibility of reaching popular destinations such as beaches, as well as for residents and connections to more populated areas.</p>
+
+<center><img src ="./images/projects/LSC_finalViz.png" alt="LSC"></center>
+
+---
 ### Financial Market Analytics
 
 My complete implementation of assignments and projects in [***Financial Market Analytics***](https://elearning.unimib.it/course/info.php?id=37918) by UniMiB (2022).
