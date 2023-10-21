@@ -9,7 +9,7 @@ SELECT * FROM sections
 - [Football Analytics](#football-analytics)
 
 ---
-## ***Data Science UniMiB***
+## **Data Science UniMiB**
 ```python
 print("Data Science UniMiB")
 ```
@@ -121,7 +121,7 @@ My complete implementation of assignments and projects in [***Text Mining and Se
 <center><img src ="./images/projects/TMS.png" alt="TMS"></center>
 
 ---
-## ***Data Science***
+## **Data Science**
 ```python
 print("Data Science")
 ```
@@ -190,7 +190,7 @@ I've also collected data for the Moon Knight TV series, also from the Marvel Cin
 <img src ="./images/projects/morbius1.png" alt="morbius">
 
 ---
-## ***Football Analytics***
+## **Football Analytics**
 ```python
 print("Football Analytics")
 ```
