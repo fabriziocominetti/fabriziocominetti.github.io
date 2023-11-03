@@ -4,14 +4,14 @@
 ```sql
 SELECT * FROM sections
 ```
-- [Data Science UniMiB](#data-science-unimib)
+- [University](#university)
 - [Data Science](#data-science)
 - [Football Analytics](#football-analytics)
 
 ---
-## **Data Science UniMiB**
+## **University**
 ```python
-print("Data Science UniMiB")
+print("University")
 ```
 
 Collection of projects realized for the university courses [@UniMiB](https://www.unimib.it/) (2021-now). Some of those accomplished as university projects will be illustrated below. ([GitHub](https://github.com/fabriziocominetti/data-science-UniMiB))
