@@ -11,7 +11,7 @@ SELECT * FROM sections
 ---
 ## **University**
 ```python
-print("University")
+print("University Projects - Data Science @UniMiB")
 ```
 
 Collection of projects realized for the university courses [@UniMiB](https://www.unimib.it/) (2021-now). Some of those accomplished as university projects will be illustrated below. ([GitHub](https://github.com/fabriziocominetti/data-science-UniMiB))
@@ -123,7 +123,7 @@ My complete implementation of assignments and projects in [***Text Mining and Se
 ---
 ## **Data Science**
 ```python
-print("Data Science")
+print("Data Science & Data Analytics Projects")
 ```
 
 Collection of various data science projects. Explore them on ([GitHub](https://github.com/fabriziocominetti/))
@@ -192,7 +192,7 @@ I've also collected data for the Moon Knight TV series, also from the Marvel Cin
 ---
 ## **Football Analytics**
 ```python
-print("Football Analytics")
+print("Football Analytics Projects")
 ```
 
 Collection of projects related to the field of football analytics. Most of them can be found here on ([GitHub](https://github.com/fabriziocominetti/football-analytics)).
