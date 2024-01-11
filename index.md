@@ -14,7 +14,7 @@ SELECT * FROM sections
 print("Explore University Projects")
 ```
 
-Master's Degree in Data Science | University of Milano-Bicocca | [GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)
+Master's Degree in Data Science `|` University of Milano-Bicocca `|` [GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)
 
 Collection of projects realized for the university courses of the MS at [UniMiB](https://www.unimib.it/) (2021-2023).
 
@@ -29,6 +29,7 @@ Collection of projects realized for the university courses of the MS at [UniMiB]
   - [Data Science Lab on Smart Cities](#data-science-lab-on-smart-cities)
 
 </details>
+
 
 ### Social Media Analytics
 
@@ -140,7 +141,7 @@ My complete implementation of assignments and projects in [***Data Science Lab o
 print("Explore Data Science Projects")
 ```
 
-Data Science | Data Analytics | [GitHub](https://github.com/fabriziocominetti?tab=repositories)
+Data Science `|` Data Analytics `|` [GitHub](https://github.com/fabriziocominetti?tab=repositories)
 
 Collection of various data science projects (2021-now).
 
@@ -222,7 +223,7 @@ I've also collected data for the Moon Knight TV series, also from the Marvel Cin
 print("Explore Football Analytics Projects")
 ```
 
-Football Analytics | [GitHub](https://github.com/fabriziocominetti/football-analytics)
+Football Analytics `|` [GitHub](https://github.com/fabriziocominetti/football-analytics)
 
 Collection of various football analytics projects and visualizations (2021-now).
 
