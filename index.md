@@ -18,12 +18,19 @@ Master's Degree in Data Science `|` University of Milano-Bicocca `|` [GitHub](ht
 
 Collection of projects realized for the university courses of the MS at [UniMiB](https://www.unimib.it/) (2021-2023).
 
+<!--
 <details>
   <summary>Table of Contents | University</summary>
   
-  - Test
+  - [Social Media Analytics](#social-media-analytics)
+  - [Financial Market Analytics](#financial-market-analytics)
+  - [Machine Learning](#machine-learning)
+  - [Data Management](#data-management)
+  - [Text Mining and Search](#text-mining-and-search)
+  - [Data Science Lab on Smart Cities](#data-science-lab-on-smart-cities)
 
 </details>
+-->
 
 ### Social Media Analytics
 
@@ -139,6 +146,7 @@ Data Science `|` Data Analytics `|` [GitHub](https://github.com/fabriziocominett
 
 Collection of various data science projects (2021-now).
 
+<!--
 <details>
   <summary>Table of Contents | Data</summary>
 
@@ -149,6 +157,7 @@ Collection of various data science projects (2021-now).
   - [Morbius](#morbius)
 
 </details>
+-->
 
 ### FantaSanremo
 
