@@ -20,16 +20,10 @@ Collection of projects realized for the university courses of the MS at [UniMiB]
 
 <details>
   <summary>Table of Contents | University</summary>
-
-  - [Social Media Analytics](#social-media-analytics)
-  - [Financial Market Analytics](#financial-market-analytics)
-  - [Machine Learning](#machine-learning)
-  - [Data Management](#data-management)
-  - [Text Mining and Search](#text-mining-and-search)
-  - [Data Science Lab on Smart Cities](#data-science-lab-on-smart-cities)
+  
+  - Test
 
 </details>
-
 
 ### Social Media Analytics
 
