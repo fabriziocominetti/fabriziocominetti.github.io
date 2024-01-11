@@ -4,17 +4,31 @@
 ```sql
 SELECT * FROM sections
 ```
-- [University](#university)
-- [Data Science](#data-science)
-- [Football Analytics](#football-analytics)
+- [🎓 University](#university)
+- [📊 Data Science](#data-science)
+- [⚽ Football Analytics](#football-analytics)
 
 ---
 ## **University**
 ```python
-print("University Projects - Data Science @UniMiB")
+print("Explore University Projects")
 ```
 
-Collection of projects realized for the university courses [@UniMiB](https://www.unimib.it/) (2021-now). Some of those accomplished as university projects will be illustrated below. ([GitHub](https://github.com/fabriziocominetti/data-science-UniMiB))
+Master's Degree in Data Science | University of Milano-Bicocca | [GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)
+
+Collection of projects realized for the university courses of the MS at [UniMiB](https://www.unimib.it/) (2021-2023).
+
+<details>
+  <summary>Table of Contents | University</summary>
+
+  - [Social Media Analytics](#social-media-analytics)
+  - [Financial Market Analytics](#financial-market-analytics)
+  - [Machine Learning](#machine-learning)
+  - [Data Management](#data-management)
+  - [Text Mining and Search](#text-mining-and-search)
+  - [Data Science Lab on Smart Cities](#data-science-lab-on-smart-cities)
+
+</details>
 
 ### Social Media Analytics
 
@@ -28,20 +42,6 @@ My complete implementation of assignments and projects in [***Social Media Analy
 <p style="color:#727272">This project focuses on the analysis of the Twitter community and sentiment regarding the enunciated topic. Through the API, 2667 tweets related to the selected keywords were collected from December 26, 2022 to January 5, 2023. After an initial preprocessing phase based on text mining techniques, a Social Network Analysis (Nodes Degree, Assortativity, Community Detection) and a Social Content Analysis (Sentiment Analysis, Emotion Recognition) were performed.</p>
 
 <center><img src ="./images/projects/SMA_network.png" alt="SMAn"></center>
-
----
-### Data Science Lab on Smart Cities
-
-My complete implementation of assignments and projects in [***Data Science Lab on Smart Cities***](https://elearning.unimib.it/course/info.php?id=44571) by UniMiB (2023).
-
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Science%20Lab%20on%20Smart%20Cities/Report_DSLab-SmartCities.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Science%20Lab%20on%20Smart%20Cities)
-
-**Mobility in Northern Sardinia**: ds lab for smart cities project realized with `.py`
-
-<p style="color:#727272">In this project, we're diving into how people move around in the northern part of Sardinia, starting from the arrivals by airports and ports and focusing mainly on public transport stops to reach key facilities. Several indicators are calculated, accompanied by data visualizations. As for airports and ports, the project aims to examine the flows both on a seasonal basis, differentiating by the airport of arrival and departure, and by checking the number of domestic and foreign tourists. The analysis then focuses in particular on the situation of public transportation for tourists, analyzing their current conditions and the possibility of reaching popular destinations such as beaches, as well as for residents and connections to more populated areas.</p>
-
-<center><img src ="./images/projects/LSC_finalViz.png" alt="LSC"></center>
 
 ---
 ### Financial Market Analytics
@@ -121,12 +121,39 @@ My complete implementation of assignments and projects in [***Text Mining and Se
 <center><img src ="./images/projects/TMS.png" alt="TMS"></center>
 
 ---
+### Data Science Lab on Smart Cities
+
+My complete implementation of assignments and projects in [***Data Science Lab on Smart Cities***](https://elearning.unimib.it/course/info.php?id=44571) by UniMiB (2023).
+
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Science%20Lab%20on%20Smart%20Cities/Report_DSLab-SmartCities.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Science%20Lab%20on%20Smart%20Cities)
+
+**Mobility in Northern Sardinia**: ds lab for smart cities project realized with `.py`
+
+<p style="color:#727272">In this project, we're diving into how people move around in the northern part of Sardinia, starting from the arrivals by airports and ports and focusing mainly on public transport stops to reach key facilities. Several indicators are calculated, accompanied by data visualizations. As for airports and ports, the project aims to examine the flows both on a seasonal basis, differentiating by the airport of arrival and departure, and by checking the number of domestic and foreign tourists. The analysis then focuses in particular on the situation of public transportation for tourists, analyzing their current conditions and the possibility of reaching popular destinations such as beaches, as well as for residents and connections to more populated areas.</p>
+
+<center><img src ="./images/projects/LSC_finalViz.png" alt="LSC"></center>
+
+---
 ## **Data Science**
 ```python
-print("Data Science & Data Analytics Projects")
+print("Explore Data Science Projects")
 ```
 
-Collection of various data science projects. Explore them on ([GitHub](https://github.com/fabriziocominetti/))
+Data Science | Data Analytics | [GitHub](https://github.com/fabriziocominetti?tab=repositories)
+
+Collection of various data science projects (2021-now).
+
+<details>
+  <summary>Table of Contents | Data</summary>
+
+  - [FantaSanremo](#fantasanremo)
+  - [Billboard Hot-100 EDA](#billboard-hot-100-eda)
+  - [Serie A xG](#serie-a-xg)
+  - [The Office](#the-office)
+  - [Morbius](#morbius)
+
+</details>
 
 ### FantaSanremo
 
@@ -192,10 +219,12 @@ I've also collected data for the Moon Knight TV series, also from the Marvel Cin
 ---
 ## **Football Analytics**
 ```python
-print("Football Analytics Projects")
+print("Explore Football Analytics Projects")
 ```
 
-Collection of projects related to the field of football analytics. Most of them can be found here on ([GitHub](https://github.com/fabriziocominetti/football-analytics)).
+Football Analytics | [GitHub](https://github.com/fabriziocominetti/football-analytics)
+
+Collection of various football analytics projects and visualizations (2021-now).
 
 <center><img src ="./images/projects/serieA_2223_round1.png" alt="xG"></center>
 
@@ -220,4 +249,5 @@ Collection of projects related to the field of football analytics. Most of them 
 -->
 
 ---
-<center>© 2022 Fabrizio Cominetti. Powered by Jekyll and the Minimal Theme.</center>
+<center>© Fabrizio Cominetti</center>
+<!-- Powered by Jekyll and the Minimal Theme. -->
