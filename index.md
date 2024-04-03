@@ -246,6 +246,10 @@ Collection of various football analytics projects and visualizations (2021-now).
 
 **Serie A - Team Nemesis**: football analytics project realized with `.py` and `matplotlib`
 
+<center><img src ="./images/projects/xG-SerieA_2122.png" alt="xG Serie A 2021/22"></center>
+
+**Serie A - xG Performance**: football analytics project realized with `.py` and `matplotlib`
+
 ---
 <center>© Fabrizio Cominetti</center>
 <!-- Powered by Jekyll and the Minimal Theme. -->
