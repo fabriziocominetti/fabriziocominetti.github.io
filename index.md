@@ -5,7 +5,7 @@
 SELECT * FROM sections
 ```
 - [🎓 University](#university)
-- [📊 Data Science](#data-science)
+- [📈 Data Science](#data-science)
 - [⚽ Football Analytics](#football-analytics)
 
 ---
@@ -43,7 +43,7 @@ My complete implementation of assignments and projects in [***Social Media Analy
 
 <p style="color:#727272">This project focuses on the analysis of the Twitter community and sentiment regarding the enunciated topic. Through the API, 2667 tweets related to the selected keywords were collected from December 26, 2022 to January 5, 2023. After an initial preprocessing phase based on text mining techniques, a Social Network Analysis (Nodes Degree, Assortativity, Community Detection) and a Social Content Analysis (Sentiment Analysis, Emotion Recognition) were performed.</p>
 
-<center><img src ="./images/projects/SMA_network.png" alt="SMAn"></center>
+<center><img src ="./images/projects/social-media-analytics.png" alt="Social Media Analytics - UniMiB"></center>
 
 ---
 ### Financial Market Analytics
@@ -59,7 +59,7 @@ My complete implementation of assignments and projects in [***Financial Market A
 <br />
 The results showed that the portfolios created over-performed compared to the index during the period under consideration. However, the same results also showed higher volatility than that of the index.</p>
 
-<img src ="./images/projects/financial.png" alt="finm">
+<img src ="./images/projects/financial-market-analytics.png" alt="Financial Market Analytics - UniMiB">
 
 ---
 ### Machine Learning
@@ -73,7 +73,7 @@ My complete implementation of assignments and projects in [***Machine Learning a
 
 <p style="color:#727272">The project consists in the analysis of various regression models applied to a dataset containing environmental information referred to the global temperature from January 1750 to November 2015.</p>
 
-<center><img src ="./images/projects/workflowML.png" alt="wML"></center>
+<center><img src ="./images/projects/machine-learning_workflow.png" alt="Machine Learning - UniMiB"></center>
 
 ---
 ### Data Management
@@ -89,7 +89,7 @@ My complete implementation of assignments and projects in [***Data Management***
 <br />
 The final database is complete of the various relationships between characters, movies and comics of the Marvel world, moreover each node contains several information about its nature.</p>
 
-<img src ="./images/projects/dataMan.png" alt="dman">
+<img src ="./images/projects/data-management.png" alt="Data Management - UniMiB">
 
 ---
 ### Data Visualization
@@ -106,7 +106,7 @@ My complete implementation of assignments and projects in [***Data Visualization
 <br />
 We have therefore used the datasets provided by IMDb to answer the research question through an interactive visualization.</p>
 
-<center><img src ="./images/projects/dataViz.png" alt="dviz"></center>
+<center><img src ="./images/projects/data-visualization.png" alt="Data Visualization - UniMiB"></center>
 
 ---
 ### Text Mining and Search
@@ -120,7 +120,7 @@ My complete implementation of assignments and projects in [***Text Mining and Se
 
 <p style="color:#727272">In this project, user reviews from the IMDB platform were analyzed through the use of text mining techniques. After carrying out an initial phase of text processing and text representation, the project continued with the classification of the reviews, through some text classification techniques - such as Support Vector Machines (SVM), Multilayer Perceptron (MLP), and Logistic Regression. Next, a text clustering phase was carried out through the use of two algorithms: DBSCAN and k-means.</p>
 
-<center><img src ="./images/projects/TMS.png" alt="TMS"></center>
+<center><img src ="./images/projects/text-mining.png" alt="Text Mining and Search - UniMiB"></center>
 
 ---
 ### Data Science Lab on Smart Cities
@@ -134,7 +134,7 @@ My complete implementation of assignments and projects in [***Data Science Lab o
 
 <p style="color:#727272">In this project, we're diving into how people move around in the northern part of Sardinia, starting from the arrivals by airports and ports and focusing mainly on public transport stops to reach key facilities. Several indicators are calculated, accompanied by data visualizations. As for airports and ports, the project aims to examine the flows both on a seasonal basis, differentiating by the airport of arrival and departure, and by checking the number of domestic and foreign tourists. The analysis then focuses in particular on the situation of public transportation for tourists, analyzing their current conditions and the possibility of reaching popular destinations such as beaches, as well as for residents and connections to more populated areas.</p>
 
-<center><img src ="./images/projects/LSC_finalViz.png" alt="LSC"></center>
+<center><img src ="./images/projects/lab-smart-cities.png" alt="Data Science Lab Smart Cities - UniMiB"></center>
 
 ---
 ## **Data Science**
@@ -167,9 +167,9 @@ Collection of various data science projects (2021-now).
 
 <p style="color:#727272">The "Sanremo Festival" is becoming increasingly social. And so, companies and content creators also follow the events of the kermesse to stay up-to-date on any trends to be exploited and opportunities for growth. In recent years, "FantaSanremo" - a game that involves viewers but also the singers in the competition - has become very popular among young and old enthusiasts. This project focuses on analyzing tweets related to the 2023 edition of #FantaSanremo, with the goal of analyzing content, the most relevant hashtags and sentiment related to the topic of interest.</p>
 
-<img src ="./images/projects/fantasanremo_tweets-date.png" alt="fantasanremo">
+<img src ="./images/projects/fantasanremo_tweets-date.png" alt="Fantasanremo 2023 - Tweets">
 
-<img src ="./images/projects/fantasanremo_wc.png" alt="fantasanremo">
+<img src ="./images/projects/fantasanremo_wc.png" alt="Fantasanremo 2023 - Wordcloud">
 
 ### Billboard Hot-100 EDA
 
@@ -179,7 +179,7 @@ Exploratory Data Analysis of **Billboard's Hot-100 Weekly Charts**; realized wit
 
 <p style="color:#727272">The Billboard Hot 100 is the music industry standard record chart in the United States for songs, published weekly by Billboard magazine. I've performed an exploratory data analysis of the Billboard dataset containing all the charts from 1958 to today. Finally, I've pictured some results obtained in a dashboard.</p>
 
-<img src ="./images/projects/billboard.png" alt="billboard">
+<img src ="./images/projects/billboard.png" alt="Billboard Hot-100">
 
 ---
 ### Serie A xG
@@ -193,7 +193,7 @@ Web Scraping and Exploratory Data Analysis of FBref's **Serie A Expected Goals S
 <br />
 The dataset contains info on classic football data with the addition of xG, a metric used to determine the expected goals, for and against, a team.</p>
 
-<img src ="./images/projects/xG-serieA-2122.png" alt="serieA">
+<img src ="./images/projects/xG-serieA-2122.png" alt="Serie A xG 2021/22">
 
 ---
 ### The Office
@@ -205,7 +205,7 @@ Web Scraping of every lines from all seasons of the TV show **The Office** follo
 
 <p style="color:#727272">The Office is an American mockumentary sitcom television series that depicts the everyday work lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company. In this project, I've firstly scraped all the lines of the TV show in a CSV file, then I've performed in two different jupyter notebooks an exploratory data analysis and a sentiment analysis of all the lines.</p>
 
-<center><img src ="./images/projects/theoffice.png" alt="theOffice"></center>
+<center><img src ="./images/projects/the-office.png" alt="The Office"></center>
 
 ---
 ### Morbius
@@ -230,27 +230,21 @@ Football Analytics `|` [GitHub](https://github.com/fabriziocominetti/football-an
 
 Collection of various football analytics projects and visualizations (2021-now).
 
-<center><img src ="./images/projects/serieA_2223_round1.png" alt="xG"></center>
+<center><img src ="./images/projects/serieA_2223_round1.png" alt="xG Lollipop"></center>
 
 **Serie A - xG Lollipop**: football analytics project realized with `.py` and `matplotlib`
 
 <!-- <p style="color:#727272">In this viz, I replicated a chart posted by Soccermatics that showcased the xG timeline of a match in the Swedish league and applied it to Serie A's first-round fixtures. Here's the lollipop xG chart, but for the first matches of the 1st round of the Serie A 22/23 season.</p> -->
 
-<center><img src ="./images/projects/ACM-xG-rolling-plot.png" alt="xG"></center>
+<center><img src ="./images/projects/ACM-xG-rolling-plot.png" alt="xG Rolling Plot"></center>
 
 **xG Rolling Plot**: football analytics project realized with `.py` and `matplotlib`
 
 <!-- <p style="color:#727272">AC Milan won a second place in the 20-21 season and a first place in the 21-22 Serie A season. Under the leadership of Coach Pioli, the team has always expressed a quality football, dangerous in attack and with constant growth in defense. This visualization aims to compare xG created and conceded during these two seasons.</p>  -->
 
-<center><img src ="./images/projects/team-nemesis-serieA.png" alt="teamNemesis"></center>
+<center><img src ="./images/projects/team-nemesis-serieA.png" alt="Italian Football Team Nemesis"></center>
 
 **Serie A - Team Nemesis**: football analytics project realized with `.py` and `matplotlib`
-
-<!-- 
-<center><img src ="./images/projects/premierLeague_bcr.gif" alt="premLeague"></center>
-
-**EPL - Bar Chart Race** of Premier League standings from 1992 to 2016, realized with `.ipynb` and `Tableau`
--->
 
 ---
 <center>© Fabrizio Cominetti</center>
