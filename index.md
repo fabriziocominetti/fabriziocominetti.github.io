@@ -238,15 +238,17 @@ Collection of various football analytics projects and visualizations (2021-now).
 
 <center><img src ="./images/projects/ACM-xG-rolling-plot.png" alt="xG Rolling Plot"></center>
 
-`xG Rolling Plot` `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-rolling-plot) `|` `.py`
+**xG Rolling Plot** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-rolling-plot)
 
 <!-- <p style="color:#727272">AC Milan won a second place in the 20-21 season and a first place in the 21-22 Serie A season. Under the leadership of Coach Pioli, the team has always expressed a quality football, dangerous in attack and with constant growth in defense. This visualization aims to compare xG created and conceded during these two seasons.</p>  -->
 
 <center><img src ="./images/projects/team-nemesis-serieA.png" alt="Italian Football Team Nemesis"></center>
-<center><b>Team Nemesis</b></center>
+
+**Team Nemesis** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/team-nemesis)
 
 <center><img src ="./images/projects/xG-SerieA_2122.png" alt="xG Serie A 2021/22"></center>
-<center><b>xG Performance</b></center>
+
+**xG Performance** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-chart)
 
 ---
 <center>© Fabrizio Cominetti</center>
