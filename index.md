@@ -231,14 +231,14 @@ Football Analytics `|` [GitHub](https://github.com/fabriziocominetti/football-an
 Collection of various football analytics projects and visualizations (2021-now).
 
 <center><img src ="./images/projects/serieA_2223_round1.png" alt="xG Lollipop"></center>
-<center><b>xG Lollipop</b></center>
 
-<!-- football analytics project realized with `.py` and `matplotlib` -->
+**xG Lollipop** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-lollipop)
 
 <!-- <p style="color:#727272">In this viz, I replicated a chart posted by Soccermatics that showcased the xG timeline of a match in the Swedish league and applied it to Serie A's first-round fixtures. Here's the lollipop xG chart, but for the first matches of the 1st round of the Serie A 22/23 season.</p> -->
 
 <center><img src ="./images/projects/ACM-xG-rolling-plot.png" alt="xG Rolling Plot"></center>
-<center><b>xG Rolling Plot</b></center>
+
+`xG Rolling Plot` `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-rolling-plot) `|` `.py`
 
 <!-- <p style="color:#727272">AC Milan won a second place in the 20-21 season and a first place in the 21-22 Serie A season. Under the leadership of Coach Pioli, the team has always expressed a quality football, dangerous in attack and with constant growth in defense. This visualization aims to compare xG created and conceded during these two seasons.</p>  -->
 
