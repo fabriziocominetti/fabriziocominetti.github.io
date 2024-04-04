@@ -261,6 +261,10 @@ Collection of various football analytics projects and visualizations (2021-now).
 
 <!-- <p style="color:#727272">AC Milan won a second place in the 20-21 season and a first place in the 21-22 Serie A season. Under the leadership of Coach Pioli, the team has always expressed a quality football, dangerous in attack and with constant growth in defense. This visualization aims to compare xG created and conceded during these two seasons.</p>  -->
 
+<center><img src ="./images/projects/tiled-shots_serieA.png" alt="Tiled Shots Map"></center>
+
+**Tiled Shots Map** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/tiled-shot-maps)
+
 <center><img src ="./images/projects/team-nemesis-serieA.png" alt="Italian Football Team Nemesis"></center>
 
 **Team Nemesis** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/team-nemesis)
