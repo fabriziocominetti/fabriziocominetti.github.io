@@ -115,7 +115,7 @@ The final database is complete of the various relationships between characters, 
 
 My complete implementation of assignments and projects in [***Data Visualization***](https://elearning.unimib.it/course/info.php?id=26218#en) by UniMiB (2022).
 
-[![Open in Browser](https://img.shields.io/badge/HTML-Open%20in%20Browser-red)](./projects/dataViz/dataViz.html)
+[![Open in Browser](https://img.shields.io/badge/HTML-Open%20in%20Browser-red)](./projects/data-visualization-UniMiB/data-visualization-UniMiB.html)
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Visualization/Report_DV.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Visualization)
 
@@ -204,7 +204,7 @@ Exploratory Data Analysis of **Billboard's Hot-100 Weekly Charts**; realized wit
 ### Serie A xG
 
 <a href="https://github.com/fabriziocominetti/football-analytics/tree/main/xG-SerieA-2122"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/xG-serieA-2122.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/xG-serieA_2122.html)
 
 Web Scraping and Exploratory Data Analysis of FBref's **Serie A Expected Goals Standing**; realized with `.py`
 
