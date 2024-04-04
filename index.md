@@ -269,6 +269,10 @@ Collection of various football analytics projects and visualizations (2021-now).
 
 **Team Nemesis** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/team-nemesis)
 
+<center><img src ="./images/projects/plottable-serieA_2324_MD30.png" alt="Plottable Serie A"></center>
+
+**Plottable** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/plottable)
+
 ---
 <center>© Fabrizio Cominetti</center>
 <!-- Powered by Jekyll and the Minimal Theme. -->
