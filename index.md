@@ -32,6 +32,7 @@ Collection of projects realized for the university courses of the MS at [UniMiB]
 </details>
 -->
 
+---
 ### Master's Thesis
 
 ***Exposing Bias in Vision-Language Models***
@@ -49,6 +50,7 @@ Multimodal models have brought about significant and rapid technological innovat
 
 [Slideshow](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Master's%20Thesis/Slideshow-Cominetti_Fabrizio_Tesi_LMDS.pdf)
 
+---
 ### Social Media Analytics
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Social%20Media%20Analytics/Report_SMA.pdf)
@@ -60,6 +62,7 @@ Multimodal models have brought about significant and rapid technological innovat
 
 <center><img src ="./images/projects/social-media-analytics.png" alt="Social Media Analytics - UniMiB"></center>
 
+---
 ### Financial Market Analytics
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Financial%20Market%20Analytics/Report_FM.pdf)
@@ -72,6 +75,7 @@ The results showed that the portfolios created over-performed compared to the in
 
 <img src ="./images/projects/financial-market-analytics.png" alt="Financial Market Analytics - UniMiB">
 
+---
 ### Machine Learning
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Machine%20Learning/Report_ML.pdf)
@@ -83,6 +87,7 @@ The results showed that the portfolios created over-performed compared to the in
 
 <center><img src ="./images/projects/machine-learning_workflow.png" alt="Machine Learning - UniMiB"></center>
 
+---
 ### Data Management
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Management/Report_DM.pdf)
@@ -95,6 +100,7 @@ The final database is complete of the various relationships between characters, 
 
 <img src ="./images/projects/data-management.png" alt="Data Management - UniMiB">
 
+---
 ### Data Visualization
 
 [![Open in Browser](https://img.shields.io/badge/HTML-Open%20in%20Browser-red)](./projects/data-visualization-UniMiB/data-visualization-UniMiB.html)
@@ -108,6 +114,7 @@ We have therefore used the datasets provided by IMDb to answer the research ques
 
 <center><img src ="./images/projects/data-visualization.png" alt="Data Visualization - UniMiB"></center>
 
+---
 ### Text Mining and Search
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Text%20Mining%20and%20Search/Report_TMS.pdf)
@@ -119,6 +126,7 @@ We have therefore used the datasets provided by IMDb to answer the research ques
 
 <center><img src ="./images/projects/text-mining.png" alt="Text Mining and Search - UniMiB"></center>
 
+---
 ### Data Science Lab on Smart Cities
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Science%20Lab%20on%20Smart%20Cities/Report_DSLab-SmartCities.pdf)
@@ -153,6 +161,7 @@ Collection of various data science projects (2021-now).
 </details>
 -->
 
+---
 ### FantaSanremo
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/fantasanremo)
@@ -165,6 +174,7 @@ Collection of various data science projects (2021-now).
 
 <img src ="./images/projects/fantasanremo_wc.png" alt="Fantasanremo 2023 - Wordcloud">
 
+---
 ### Billboard Hot-100 EDA
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/billboard)
@@ -175,6 +185,7 @@ Collection of various data science projects (2021-now).
 
 <img src ="./images/projects/billboard.png" alt="Billboard Hot-100">
 
+---
 ### Serie A xG
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-SerieA-2122)
@@ -187,6 +198,7 @@ The dataset includes traditional football data along with xG, a metric used to a
 
 <img src ="./images/projects/xG-SerieA_2122.png" alt="Serie A xG 2021/22">
 
+---
 ### The Office
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/the-office)
@@ -198,6 +210,7 @@ The dataset includes traditional football data along with xG, a metric used to a
 
 <center><img src ="./images/projects/the-office.png" alt="The Office"></center>
 
+---
 ### Morbius
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/morbius)
