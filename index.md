@@ -5,14 +5,14 @@ SELECT * FROM sections
 ```
 
 - [🎓 University](#university)
-- [📈 Data Science](#data-science)
+- [📈 Data World](#data-world)
 - [⚽ Football Analytics](#football-analytics)
 
 ---
 ## **University**
-```python
+<!-- ```python
 print("Explore University Projects")
-```
+``` -->
 
 Master's Degree in Data Science `|` University of Milano-Bicocca `|` [GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)
 
@@ -139,10 +139,10 @@ We have therefore used the datasets provided by IMDb to answer the research ques
 <center><img src ="./images/projects/lab-smart-cities.png" alt="Data Science Lab Smart Cities - UniMiB"></center>
 
 ---
-## **Data Science**
-```python
+## **Data World**
+<!-- ```python
 print("Explore Data Science Projects")
-```
+``` -->
 
 Data Science `|` Data Analytics `|` [GitHub](https://github.com/fabriziocominetti?tab=repositories)
 
@@ -221,9 +221,9 @@ The dataset includes traditional football data along with xG, a metric used to a
 
 ---
 ## **Football Analytics**
-```python
+<!-- ```python
 print("Explore Football Analytics Projects")
-```
+``` -->
 
 Football Analytics `|` [GitHub](https://github.com/fabriziocominetti/football-analytics)
 
