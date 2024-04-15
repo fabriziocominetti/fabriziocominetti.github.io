@@ -204,11 +204,14 @@ The dataset includes traditional football data along with xG, a metric used to a
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/the-office)
 [![View on Kaggle](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle)](https://kaggle.com/fabriziocominetti/the-office-lines)
 
-**The Office** - Web Scraping, Exploratory and Sentiment Data Analysis
+**The Office** - Web Scraping, Sentiment Analysis and NanoGPT
 
-<p style="color:#727272">"The Office" is an American mockumentary sitcom television series that depicts the everyday work lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company. In this project, all the lines from all the seasons of the TV show were scraped using BeautifulSoup and saved in a CSV file. Subsequently, an exploratory data analysis and sentiment analysis of all the scraped lines were performed. The sentiment analysis utilized VADER to calculate sentiment scores. Finally, PowerBI was employed for the final visualization of the analyzed data.</p>
+<p style="color:#727272">"The Office" is an American mockumentary sitcom television series that depicts the everyday work lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company. In this project, all the lines from all the seasons of the TV show were scraped using BeautifulSoup. Subsequently, an exploratory data analysis and sentiment analysis of all the scraped lines were performed. The sentiment analysis utilized VADER to calculate sentiment scores. Finally, PowerBI was employed for the final visualization of the analyzed data.<br />
+Additionally, I leveraged the dataset I had created to experiment with the NanoGPT model, a small transformer-based language model introduced by Andrej Karpathy. In this scenario, I trained the model and experimented with it to generate various texts and ideas.</p>
 
 <center><img src ="./images/projects/the-office.png" alt="The Office"></center>
+
+<center><img src ="./images/projects/the-office_nanogpt.png" alt="The Office x NanoGPT"></center>
 
 ---
 ### Morbius
