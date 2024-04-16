@@ -191,7 +191,7 @@ Collection of various data science projects (2021-now).
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-SerieA-2122)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/xG-serieA_2122.html)
 
-**Serie A Expected Goals Standing** - Web Scraping and Exploratory Data Analysis
+**Serie A Expected Goals Performance** - Web Scraping and Exploratory Data Analysis
 
 <p style="color:#727272">Web scraping of data from the FBref website was conducted to analyze the current state of the Serie A Italian football championship using requests and BeautifulSoup. At the time of the project, the break for national teams had left the league with 8-9 games remaining, with many situations yet to be determined. These final matches could significantly impact the outcome of the season, potentially transforming it from an extraordinary one to a lackluster performance, or vice versa, depending on whether teams achieve their goals.<br />
 The dataset includes traditional football data along with xG, a metric used to assess expected goals for and against each team.</p>
@@ -204,7 +204,7 @@ The dataset includes traditional football data along with xG, a metric used to a
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/the-office)
 [![View on Kaggle](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle)](https://kaggle.com/fabriziocominetti/the-office-lines)
 
-**The Office** - Web Scraping, Sentiment Analysis and NanoGPT
+**The Office GPT** - Web Scraping, Sentiment Analysis and NanoGPT
 
 <p style="color:#727272">"The Office" is an American mockumentary sitcom television series that depicts the everyday work lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company. In this project, all the lines from all the seasons of the TV show were scraped using BeautifulSoup. Subsequently, an exploratory data analysis and sentiment analysis of all the scraped lines were performed. The sentiment analysis utilized VADER to calculate sentiment scores. Finally, PowerBI was employed for the final visualization of the analyzed data.<br />
 Additionally, I leveraged the dataset I had created to experiment with the NanoGPT model, a small transformer-based language model introduced by Andrej Karpathy. In this scenario, I trained the model and experimented with it to generate various texts and ideas.</p>
