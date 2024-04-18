@@ -175,30 +175,6 @@ Collection of various data science projects (2021-now).
 <img src ="./images/projects/fantasanremo_wc.png" alt="Fantasanremo 2023 - Wordcloud">
 
 ---
-### Billboard Hot-100 EDA
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/billboard)
-
-**Billboard's Hot-100 Weekly Charts** - Exploratory Data Analysis
-
-<p style="color:#727272">The Billboard Hot 100 is the music industry standard record chart in the United States for songs, published weekly by Billboard magazine. I've conducted an exploratory data analysis of the Billboard dataset containing all the charts from 1958 to today using SQLite. Finally, I've visualized some of the results in a dashboard created with Tableau.</p>
-
-<img src ="./images/projects/billboard.png" alt="Billboard Hot-100">
-
----
-### Serie A xG
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-SerieA-2122)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/xG-serieA_2122.html)
-
-**Serie A Expected Goals Performance** - Web Scraping and Exploratory Data Analysis
-
-<p style="color:#727272">Web scraping of data from the FBref website was conducted to analyze the current state of the Serie A Italian football championship using requests and BeautifulSoup. At the time of the project, the break for national teams had left the league with 8-9 games remaining, with many situations yet to be determined. These final matches could significantly impact the outcome of the season, potentially transforming it from an extraordinary one to a lackluster performance, or vice versa, depending on whether teams achieve their goals.<br />
-The dataset includes traditional football data along with xG, a metric used to assess expected goals for and against each team.</p>
-
-<img src ="./images/projects/xG-SerieA_2122.png" alt="Serie A xG 2021/22">
-
----
 ### The Office
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/the-office)
@@ -214,6 +190,30 @@ Additionally, I leveraged the dataset I had created to experiment with the NanoG
 <center><img src ="./images/projects/the-office_nanogpt.png" alt="The Office x NanoGPT"></center>
 
 ---
+### TV Ratings
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/tv-ratings)
+
+**IMDb Ratings** - Data Analysis
+
+<p style="color:#727272">This project focuses on analyzing and visualizing IMDb ratings of popular TV series and films, aiming to uncover trends and patterns across seasons and episodes. The data visualization step employs two primary methods: trendline plotting, which provides insights on the show's performance over various seasons, and heatmap representations, providing a comprehensive overview of episode ratings across seasons.</p>
+
+<center><img src ="./images/projects/twd_seasons_avg.png" alt="The Walking Dead - Trendline"></center>
+
+<center><img src ="./images/projects/twd_ratings.png" alt="The Walking Dead - Heatmap"></center>
+
+---
+### Billboard Hot-100 EDA
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/billboard)
+
+**Billboard's Hot-100 Weekly Charts** - Exploratory Data Analysis
+
+<p style="color:#727272">The Billboard Hot 100 is the music industry standard record chart in the United States for songs, published weekly by Billboard magazine. I've conducted an exploratory data analysis of the Billboard dataset containing all the charts from 1958 to today using SQLite. Finally, I've visualized some of the results in a dashboard created with Tableau.</p>
+
+<img src ="./images/projects/billboard.png" alt="Billboard Hot-100">
+
+---
 ### Morbius
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/morbius)
@@ -223,6 +223,19 @@ Additionally, I leveraged the dataset I had created to experiment with the NanoG
 <p style="color:#727272">"Morbius" is a film from the Marvel catalogue. Tweets containing the keyword 'Morbius' were collected using the Twitter API and the Tweepy package to analyze the sentiment following the film's release. Sentiment analysis was conducted using VADER to calculate sentiment scores. The data was collected over the subsequent 4 days and then compared using a kdeplot. Additionally, data for the "Moon Knight" TV series, also from the Marvel Cinematic Universe, was collected for two days following the series' release. This data was then compared to the first two days after the release of "Morbius".</p>
 
 <img src ="./images/projects/morbius1.png" alt="morbius">
+
+---
+### Serie A xG
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-SerieA-2122)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/xG-serieA_2122.html)
+
+**Serie A Expected Goals Performance** - Web Scraping and Exploratory Data Analysis
+
+<p style="color:#727272">Web scraping of data from the FBref website was conducted to analyze the current state of the Serie A Italian football championship using requests and BeautifulSoup. At the time of the project, the break for national teams had left the league with 8-9 games remaining, with many situations yet to be determined. These final matches could significantly impact the outcome of the season, potentially transforming it from an extraordinary one to a lackluster performance, or vice versa, depending on whether teams achieve their goals.<br />
+The dataset includes traditional football data along with xG, a metric used to assess expected goals for and against each team.</p>
+
+<img src ="./images/projects/xG-SerieA_2122.png" alt="Serie A xG 2021/22">
 
 ---
 ## **Football Analytics**
