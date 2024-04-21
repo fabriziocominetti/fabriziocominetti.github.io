@@ -120,9 +120,9 @@ We have therefore used the datasets provided by IMDb to answer the research ques
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Text%20Mining%20and%20Search/Report_TMS.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Text%20Mining%20and%20Search)
 
-**IMDB Reviews - Text Classification and Clustering** `|` [_Text Mining and Search_](https://elearning.unimib.it/course/info.php?id=44576), UniMiB (2023).
+**IMDb Reviews - Text Classification and Clustering** `|` [_Text Mining and Search_](https://elearning.unimib.it/course/info.php?id=44576), UniMiB (2023).
 
-<p style="color:#727272">In this project, user reviews from the IMDB platform were analyzed through the use of text mining techniques. After carrying out an initial phase of text processing and text representation, the project continued with the classification of the reviews, through some text classification techniques - such as Support Vector Machines (SVM), Multilayer Perceptron (MLP), and Logistic Regression. Next, a text clustering phase was carried out through the use of two algorithms: DBSCAN and k-means.</p>
+<p style="color:#727272">In this project, user reviews from the IMDb platform were analyzed through the use of text mining techniques. After carrying out an initial phase of text processing and text representation, the project continued with the classification of the reviews, through some text classification techniques - such as Support Vector Machines (SVM), Multilayer Perceptron (MLP), and Logistic Regression. Next, a text clustering phase was carried out through the use of two algorithms: DBSCAN and k-means.</p>
 
 <center><img src ="./images/projects/text-mining.png" alt="Text Mining and Search - UniMiB"></center>
 
