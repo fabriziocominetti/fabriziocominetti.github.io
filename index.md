@@ -261,7 +261,7 @@ Collection of various football analytics projects and visualizations (2021-now).
 
 **Tiled Shots Map** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/tiled-shot-maps)
 
-<center><img src ="./images/projects/xG-lollipop_serieA_2223_round1.png" alt="xG Lollipop"></center>
+<center><img src ="./images/projects/xG-lollipop_serieA_2223.png" alt="xG Lollipop"></center>
 
 **xG Lollipop** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-lollipop)
 
