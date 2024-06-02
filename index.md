@@ -40,7 +40,7 @@ Collection of projects realized for the university courses of the MS at [UniMiB]
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Master's%20Thesis/Cominetti_Fabrizio-Tesi_LMDS.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Master's%20Thesis)
 
-Multimodal models have brought about significant and rapid technological innovations in recent years. Among these, vision and language models excel at processing, comprehending, and manipulating data and information from two modalities: text and image, representing textual and visual components, respectively. However, the possible presence of bias represents a significant concern that can overshadow their impressive capabilities. Starting with the construction of a novel and morphed dataset derived from UTKFace, this paper utilizes three pre-trained models - ALBEF, BLIP-2, and CLIP - to investigate gender and racial biases in VL models. The experiments span from zero-shot retrieval to zero-shot classification tasks, aiming to identify and measure bias across specific demographic groups. The findings contribute to advancing fair artificial intelligence by emphasizing the importance of addressing biases, particularly within these increasingly adopted models.
+<p style="color:#727272">Multimodal models have brought about significant and rapid technological innovations in recent years. Among these, vision and language models excel at processing, comprehending, and manipulating data and information from two modalities: text and image, representing textual and visual components, respectively. However, the possible presence of bias represents a significant concern that can overshadow their impressive capabilities. Starting with the construction of a novel and morphed dataset derived from UTKFace, this paper utilizes three pre-trained models - ALBEF, BLIP-2, and CLIP - to investigate gender and racial biases in VL models. The experiments span from zero-shot retrieval to zero-shot classification tasks, aiming to identify and measure bias across specific demographic groups. The findings contribute to advancing fair artificial intelligence by emphasizing the importance of addressing biases, particularly within these increasingly adopted models.</p>
 
 <center><img src ="./images/projects/thesis-dataset.jpg" alt="Master's Thesis - UniMiB"></center>
 
@@ -58,7 +58,7 @@ Multimodal models have brought about significant and rapid technological innovat
 
 **Smart Working - Social Network and Content Analysis** `|` [_Social Media Analytics_](https://elearning.unimib.it/course/info.php?id=44573), UniMiB (2023).
 
-<p style="color:#727272">This project focuses on the analysis of the Twitter community and sentiment regarding the enunciated topic. Through the API, 2667 tweets related to the selected keywords were collected from December 26, 2022 to January 5, 2023. After an initial preprocessing phase based on text mining techniques, a Social Network Analysis (Nodes Degree, Assortativity, Community Detection) and a Social Content Analysis (Sentiment Analysis, Emotion Recognition) were performed.</p>
+<p style="color:#727272">This project focuses on the sentiment and community analysis of Twitter discussions regarding the topic of smart working. Using the official Twitter API and the Tweepy library, 2667 tweets containing relevant keywords were collected from December 26, 2022, to January 5, 2023. After an initial preprocessing phase based on text mining techniques, a Social Network Analysis (including Nodes Degree, Assortativity, and Community Detection) and a Social Content Analysis (covering Sentiment Analysis and Emotion Recognition) were performed. The social network analysis revealed that with a relevant topic, even with a relatively small number of nodes, such as the 1820 in this case, communities form easily within a social network. The sentiment analysis showed that the emotion of 'anger' was most prevalent in discussions about smart working, indicating a significant emotional response from users.</p>
 
 <center><img src ="./images/projects/social-media-analytics.png" alt="Social Media Analytics - UniMiB"></center>
 
@@ -70,8 +70,7 @@ Multimodal models have brought about significant and rapid technological innovat
 
 **Portfolio Analysis** `|` [_Financial Market Analytics_](https://elearning.unimib.it/course/info.php?id=37918), UniMiB (2022).
 
-<p style="color:#727272">In this group work, we want to better understand the structural characteristics that risk brings to real investment portfolios. In order to understand this empirically, we need to build real portfolios that are concentrated/tilted with respect to a specific level and kind of risk.<br />
-The results showed that the portfolios created over-performed compared to the index during the period under consideration. However, the same results also showed higher volatility than that of the index.</p>
+<p style="color:#727272">In this group project, the aim is to better understand the structural characteristics that risk brings to real investment portfolios. To empirically explore this, it is necessary to construct real portfolios that are concentrated or tilted with respect to specific levels and types of risk. Using five years of data for the EURO STOXX 50 index and constituent stocks, portfolios based on various risk factors were constructed. The portfolios outperformed the index in returns but exhibited higher volatility, illustrating the subtle risk-return relationship. Comparative analysis reveals the trade-off between returns and volatility, shedding light on portfolio efficiency, and the findings emphasize strategic portfolio construction for optimal risk management and return maximization.</p>
 
 <img src ="./images/projects/financial-market-analytics.png" alt="Financial Market Analytics - UniMiB">
 
@@ -83,7 +82,7 @@ The results showed that the portfolios created over-performed compared to the in
 
 **Climate Change - Temperature Prediction** `|` [_Machine Learning and Decision Models_](https://elearning.unimib.it/course/info.php?id=37912), UniMiB (2022).
 
-<p style="color:#727272">The project, conducted using the Knime platform, consists in the analysis of various regression models applied to a dataset containing environmental information referred to the global temperature from January 1750 to November 2015. The purpose is to develop and subsequently analyze various regression models with the aim of predicting the average global temperature of the next month, based on the data collected during the previous month.</p>
+<p style="color:#727272">This project focuses on the analysis of various regression models applied to a dataset containing global temperature data from January 1750 to November 2015. Utilizing the Knime platform, the research aimed to develop predictive models to forecast the average global temperature for the subsequent month based on the previous month's data. The dataset, sourced from Kaggle and originally provided by Berkeley Earth, was preprocessed to handle missing values and select relevant features. The study explored multiple regression techniques, including Linear Regression, Polynomial Regression, Tree Ensemble, Random Forest, and XgBoost. The evaluation phase revealed that the Tree Ensemble and Random Forest models demonstrated superior performance with higher R² and lower Mean Squared Error (MSE) compared to other models.</p>
 
 <center><img src ="./images/projects/machine-learning_workflow.png" alt="Machine Learning - UniMiB"></center>
 
@@ -95,8 +94,7 @@ The results showed that the portfolios created over-performed compared to the in
 
 **Marvel Graph Database** `|` [_Data Management_](https://elearning.unimib.it/course/info.php?id=37922), UniMiB (2022).
 
-<p style="color:#727272">The project realized aims to create a graph-database containing the relationships between the various Marvel products. For the realization of this project we have chosen a non-relational graph-database, built through the use of Neo4j. We have realized this project starting from two data sources, API and web scraping, that we have then integrated and on which we have then performed a quality check.<br />
-The final database is complete of the various relationships between characters, movies and comics of the Marvel world, moreover each node contains several information about its nature.</p>
+<p style="color:#727272">The project aimed to create a comprehensive database for the Marvel Universe, incorporating relationships between characters, comics, movies, and TV series. Data were collected and integrated from both API and web scraping sources, and Neo4j, a non-relational graph database, was utilized as the foundation. Data exploration ensured completeness and quality, while data integration techniques merged datasets based on character information. The resulting database comprised over 60,000 nodes and 117,000 relationships, enabling efficient querying and visualization of complex Marvel Universe connections. This database served as a valuable resource for recommendation systems and interactive platforms for Marvel enthusiasts, forming a kind of "social network" of superheroes or Marvel characters connected to their respective comics, movies, TV series, and interpersonal relationships.</p>
 
 <img src ="./images/projects/data-management.png" alt="Data Management - UniMiB">
 
@@ -109,8 +107,7 @@ The final database is complete of the various relationships between characters, 
 
 **Film - Rating and Duration Time** `|` [_Data Visualization_](https://elearning.unimib.it/course/info.php?id=26218#en), UniMiB (2022).
 
-<p style="color:#727272">In today's attention economy and society is it true that people also prefer shorter films? This consideration guided us in the realization of this project and allowed us to determine the following research question: do shorter films generally receive better ratings?<br />
-We have therefore used the datasets provided by IMDb to answer the research question through an interactive visualization, utilizing the 'Bokeh' package for the final visualization.</p>
+<p style="color:#727272">In today's attention-driven economy and society, is it true that people prefer shorter films? This consideration inspired the realization of this project and led to the formulation of the following research question: do shorter films generally receive better ratings? To address this question, we have exploited datasets sourced from IMDb and developed an interactive visualization.</p>
 
 <center><img src ="./images/projects/data-visualization.png" alt="Data Visualization - UniMiB"></center>
 
@@ -122,7 +119,7 @@ We have therefore used the datasets provided by IMDb to answer the research ques
 
 **IMDb Reviews - Text Classification and Clustering** `|` [_Text Mining and Search_](https://elearning.unimib.it/course/info.php?id=44576), UniMiB (2023).
 
-<p style="color:#727272">In this project, user reviews from the IMDb platform were analyzed through the use of text mining techniques. After carrying out an initial phase of text processing and text representation, the project continued with the classification of the reviews, through some text classification techniques - such as Support Vector Machines (SVM), Multilayer Perceptron (MLP), and Logistic Regression. Next, a text clustering phase was carried out through the use of two algorithms: DBSCAN and k-means.</p>
+<p style="color:#727272">User reviews from the IMDb platform were analyzed through the use of text mining techniques, focusing on text classification and text clustering. The dataset, comprising 50000 user-released reviews, is evenly divided between training and test sets, and the primary objective was binary sentiment classification, followed by identifying distinct clusters within the text through clustering. Various text processing techniques were utilized, including the removal of numbers, stopwords, punctuation, tokenization, lowercase conversion, and lemmatization. After preprocessing, the text was represented using Bag of Words and Tf-Idf methods, with n-grams ranging from unigrams to trigrams. For text classification, three algorithms - Support Vector Machine (SVM), Multilayer Perceptron (MLP), and Logistic Regression (LR) - were employed on both Bag of Words and Tf-Idf representations. Evaluation of these classifiers revealed varying accuracies, with SVM and LR performing particularly well. Subsequently, text clustering was conducted using DBSCAN and K-means algorithms after dimensionality reduction via Singular Value Decomposition (SVD). DBSCAN exhibited superior clustering quality, as evidenced by a higher Silhouette coefficient compared to K-means.</p>
 
 <center><img src ="./images/projects/text-mining.png" alt="Text Mining and Search - UniMiB"></center>
 
@@ -134,7 +131,8 @@ We have therefore used the datasets provided by IMDb to answer the research ques
 
 **Mobility in Northern Sardinia** `|` [_Data Science Lab on Smart Cities_](https://elearning.unimib.it/course/info.php?id=44571), UniMiB (2023).
 
-<p style="color:#727272">In this project, we're diving into how people move around in the northern part of Sardinia, starting from the arrivals by airports and ports and focusing mainly on public transport stops to reach key facilities. Several indicators are calculated, accompanied by data visualizations. As for airports and ports, the project aims to examine the flows both on a seasonal basis, differentiating by the airport of arrival and departure, and by checking the number of domestic and foreign tourists. The analysis then focuses in particular on the situation of public transportation for tourists, analyzing their current conditions and the possibility of reaching popular destinations such as beaches, as well as for residents and connections to more populated areas.</p>
+<p style="color:#727272">This project presents a comprehensive analysis of transportation dynamics in Northern Sardinia, focusing on airports, ports, public transit, and accessibility to key destinations like beaches. Several indicators are calculated, accompanied by data visualizations, to examine passenger flows, seasonal variations, and the impact of tourism on infrastructure, uncovering disparities in public transit coverage and accessibility, exacerbated by factors like depopulation and seasonal tourism. By studying arrival and departure patterns at major airports, alongside the distribution of bus stops, the study identifies areas for improvement in connectivity and mobility options. It further evaluates accessibility to important destinations such as beaches via public transit, proposing enhancements like expanded coverage, increased frequency, and infrastructure investments to bolster sustainable tourism and support long-term development goals.</p>
+
 
 <center><img src ="./images/projects/lab-smart-cities.png" alt="Data Science Lab Smart Cities - UniMiB"></center>
 
