@@ -180,8 +180,7 @@ Collection of various data science projects (2021-now).
 
 **The Office GPT** - Web Scraping, Sentiment Analysis and NanoGPT
 
-<p style="color:#727272">"The Office" is an American mockumentary sitcom television series that depicts the everyday work lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company. In this project, all the lines from all the seasons of the TV show were scraped using BeautifulSoup. Subsequently, an exploratory data analysis and sentiment analysis of all the scraped lines were performed. The sentiment analysis utilized VADER to calculate sentiment scores. Finally, PowerBI was employed for the final visualization of the analyzed data.<br />
-Additionally, I leveraged the dataset I had created to experiment with the NanoGPT model, a small transformer-based language model introduced by Andrej Karpathy. In this scenario, I trained the model and experimented with it to generate various texts and ideas.</p>
+<p style="color:#727272">"The Office" is an American mockumentary sitcom television series that depicts the everyday work lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company. In this project, all the lines from all the seasons of the TV show were scraped using BeautifulSoup. Subsequently, an exploratory data analysis and sentiment analysis of all the scraped lines were performed. The sentiment analysis utilized VADER to calculate sentiment scores. Finally, PowerBI was employed for the final visualization of the analyzed data. Additionally, I leveraged the dataset I had created to experiment with the NanoGPT model, a small transformer-based language model introduced by Andrej Karpathy. In this scenario, I trained the model and experimented with it to generate various texts and ideas.</p>
 
 <center><img src ="./images/projects/the-office.png" alt="The Office"></center>
 
@@ -218,7 +217,7 @@ Additionally, I leveraged the dataset I had created to experiment with the NanoG
 
 **Morbius & Moon Knight** - Sentiment Data Analysis
 
-<p style="color:#727272">"Morbius" is a film from the Marvel catalogue. Tweets containing the keyword 'Morbius' were collected using the Twitter API and the Tweepy package to analyze the sentiment following the film's release. Sentiment analysis was conducted using VADER to calculate sentiment scores. The data was collected over the subsequent 4 days and then compared using a kdeplot. Additionally, data for the "Moon Knight" TV series, also from the Marvel Cinematic Universe, was collected for two days following the series' release. This data was then compared to the first two days after the release of "Morbius".</p>
+<p style="color:#727272">Morbius is a film from the Marvel catalogue. Tweets containing the keyword 'Morbius' were collected using the Twitter API and the Tweepy package to analyze the sentiment following the film's release. Sentiment analysis was conducted using VADER to calculate sentiment scores. The data was collected over the subsequent 4 days and then compared using a kdeplot. Additionally, data for the Moon Knight TV series, also from the Marvel Cinematic Universe, was collected for two days following the series' release. This data was then compared to the first two days after the release of Morbius.</p>
 
 <img src ="./images/projects/morbius1.png" alt="morbius">
 
@@ -230,8 +229,7 @@ Additionally, I leveraged the dataset I had created to experiment with the NanoG
 
 **Serie A Expected Goals Performance** - Web Scraping and Exploratory Data Analysis
 
-<p style="color:#727272">Web scraping of data from the FBref website was conducted to analyze the current state of the Serie A Italian football championship using requests and BeautifulSoup. At the time of the project, the break for national teams had left the league with 8-9 games remaining, with many situations yet to be determined. These final matches could significantly impact the outcome of the season, potentially transforming it from an extraordinary one to a lackluster performance, or vice versa, depending on whether teams achieve their goals.<br />
-The dataset includes traditional football data along with xG, a metric used to assess expected goals for and against each team.</p>
+<p style="color:#727272">Web scraping of data from the FBref website was conducted to analyze the current state of the Serie A Italian football championship using requests and BeautifulSoup. At the time of the project, the break for national teams had left the league with 8-9 games remaining, with many situations yet to be determined. These final matches could significantly impact the outcome of the season, potentially transforming it from an extraordinary one to a lackluster performance, or vice versa, depending on whether teams achieve their goals. The dataset includes traditional football data along with xG, a metric used to assess expected goals for and against each team.</p>
 
 <img src ="./images/projects/xG-SerieA_2122.png" alt="Serie A xG 2021/22">
 
