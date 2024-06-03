@@ -5,7 +5,7 @@ SELECT * FROM sections
 ```
 
 - [🎓 University](#university)
-- [📈 Data World](#data-world)
+- [🔎 Data World](#data-world)
 - [⚽ Football Analytics](#football-analytics)
 
 ---
