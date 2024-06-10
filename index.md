@@ -253,6 +253,10 @@ Collection of various football analytics projects and visualizations (2021-now).
 
 **Smart Fouls** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/smart-fouls)
 
+<center><img src ="./images/projects/ACM-xG-scatter-plot.png" alt="xG Scatter Plot"></center>
+
+**xG Scatter Plot** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-scatter-plot)
+
 <center><img src ="./images/projects/tiled-shots_serieA.png" alt="Tiled Shots Map"></center>
 
 **Tiled Shots Map** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/tiled-shot-maps)
@@ -260,12 +264,6 @@ Collection of various football analytics projects and visualizations (2021-now).
 <center><img src ="./images/projects/xG-lollipop_serieA_2223.png" alt="xG Lollipop"></center>
 
 **xG Lollipop** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-lollipop)
-
-<!-- <p style="color:#727272">In this viz, I replicated a chart posted by Soccermatics that showcased the xG timeline of a match in the Swedish league and applied it to Serie A's first-round fixtures. Here's the lollipop xG chart, but for the first matches of the 1st round of the Serie A 22/23 season.</p> -->
-
-<!-- <center><img src ="./images/projects/team-nemesis-serieA.png" alt="Italian Football Team Nemesis"></center>
-
-**Team Nemesis** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/team-nemesis) -->
 
 <center><img src ="./images/projects/plottable-serieA_2324.png" alt="Plottable Serie A"></center>
 
