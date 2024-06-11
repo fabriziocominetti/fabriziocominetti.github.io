@@ -14,7 +14,7 @@ SELECT * FROM sections
 print("Explore University Projects")
 ``` -->
 
-Collection of projects completed for the university courses of the Master's Degree in Data Science at the [University of Milano-Bicocca](https://www.unimib.it/) (2021-2024) `|` [GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)
+Collection of projects completed for the university courses of the Master's Degree in Data Science at [UniMiB](https://www.unimib.it/) (2021-2024) `|` [GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)
 
 <!--
 <details>
