@@ -255,7 +255,7 @@ Collection of various football analytics projects and visualizations (2021-now).
 
 <center><img src ="./images/projects/ACM-xG-scatter-plot.png" alt="xG Scatter Plot"></center>
 
-**xG Scatter Plot** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-scatter-plot)
+**xG Scatter Plot** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-scatter)
 
 <center><img src ="./images/projects/tiled-shots_serieA.png" alt="Tiled Shots Map"></center>
 
