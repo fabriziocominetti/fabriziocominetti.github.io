@@ -14,14 +14,13 @@ SELECT * FROM sections
 print("Explore University Projects")
 ``` -->
 
-Master's Degree in Data Science `|` University of Milano-Bicocca `|` [GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)
-
-Collection of projects realized for the university courses of the MS at [UniMiB](https://www.unimib.it/) (2021-2024).
+Collection of projects completed for the university courses of the Master's Degree in Data Science at the [University of Milano-Bicocca](https://www.unimib.it/) (2021-2024) `|` [GitHub](https://github.com/fabriziocominetti/data-science-UniMiB)
 
 <!--
 <details>
   <summary>Table of Contents | University</summary>
   
+  - [Master's Thesis](#master-s-thesis)
   - [Social Media Analytics](#social-media-analytics)
   - [Financial Market Analytics](#financial-market-analytics)
   - [Machine Learning](#machine-learning)
@@ -35,10 +34,10 @@ Collection of projects realized for the university courses of the MS at [UniMiB]
 ---
 ### Master's Thesis
 
-***Exposing Bias in Vision-Language Models***
-
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Master's%20Thesis/Cominetti_Fabrizio-Tesi_LMDS.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Master's%20Thesis)
+
+**Exposing Bias in Vision-Language Models**
 
 <p style="color:#727272">Multimodal models have brought about significant and rapid technological innovations in recent years. Among these, vision and language models excel at processing, comprehending, and manipulating data and information from two modalities: text and image, representing textual and visual components, respectively. However, the possible presence of bias represents a significant concern that can overshadow their impressive capabilities. Starting with the construction of a novel and morphed dataset derived from UTKFace, this paper utilizes three pre-trained models - ALBEF, BLIP-2, and CLIP - to investigate gender and racial biases in VL models. The experiments span from zero-shot retrieval to zero-shot classification tasks, aiming to identify and measure bias across specific demographic groups. The findings contribute to advancing fair artificial intelligence by emphasizing the importance of addressing biases, particularly within these increasingly adopted models.</p>
 
@@ -142,9 +141,7 @@ Collection of projects realized for the university courses of the MS at [UniMiB]
 print("Explore Data Science Projects")
 ``` -->
 
-Data Science `|` Data Analytics `|` [GitHub](https://github.com/fabriziocominetti?tab=repositories)
-
-Collection of various data science projects (2021-now).
+Collection of various data science and data analytics projects (2021-now) `|` [GitHub](https://github.com/fabriziocominetti?tab=repositories)
 
 <!--
 <details>
@@ -239,9 +236,7 @@ Collection of various data science projects (2021-now).
 print("Explore Football Analytics Projects")
 ``` -->
 
-Football Analytics `|` [GitHub](https://github.com/fabriziocominetti/football-analytics)
-
-Collection of various football analytics projects and visualizations (2021-now).
+Collection of various football analytics projects and visualizations (2021-now) `|` [GitHub](https://github.com/fabriziocominetti/football-analytics)
 
 <center><img src ="./images/projects/ACM-xG-rolling-plot.png" alt="xG Rolling Plot"></center>
 
