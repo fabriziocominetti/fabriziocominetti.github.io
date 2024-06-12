@@ -219,6 +219,18 @@ Collection of various data science and data analytics projects (2021-now) `|` [G
 <img src ="./images/projects/morbius1.png" alt="morbius">
 
 ---
+### Player Recommender Tool
+
+<!-- [![Open Web App](https://img.shields.io/badge/Streamlit-Open_Web_App-blue?logo=Streamlit)](https://huggingface.co/spaces/fcx1/Football-Player_Recommender-Tool) -->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/player-recommender)
+
+**Data-Driven Football Scouting Tool** - Streamlit Web App
+
+<p style="color:#727272">This user-friendly tool utilizes football data to aid in football player scouting. Users can explore player data, compare players and identify potential substitutes and targets. The tool showcases key metrics for selected players and suggests similar players based on applied filters. Rankings are determined using a model that relies on cosine similarity, drawing data from FBRef covering the seasons of 2021/2022, 2022/2023, and 2023/2024 across the Top 5 football leagues. Player data is aggregated and calculated as the average performance over these three seasons, with metrics scaled based on 90-minute performances.</p>
+
+<img src ="./images/projects/streamlit-recommender_tool_v2.gif" alt="Football Player Recommender Tool">
+
+---
 ### Serie A xG
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-SerieA-2122)
