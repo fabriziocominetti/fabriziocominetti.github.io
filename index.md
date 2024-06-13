@@ -1,9 +1,9 @@
 <center>
 <h1>Portfolio</h1>
 
-<code class="sql">
+<pre><code class="sql">
 SELECT * FROM sections;
-</code>
+</code></pre>
 
 [🎓 University](#university) `|` [🔎 Data World](#data-world) `|` [⚽ Football Analytics](#football-analytics)
 </center>
