@@ -5,11 +5,10 @@
 SELECT * FROM sections;
 </code>
 
-[🎓 University](#university) `|` [🔎 Data World](#data-world) `|` [⚽ Football Analytics](#football-analytics)
-
 <p align="center">
-<a href="#university">🎓 University</a> |
-<a href="https://fabriziocominetti.github.io/#data-world">🔎 Data World</a>
+<a href="https://fabriziocominetti.github.io/#university">🎓 University</a> |
+<a href="https://fabriziocominetti.github.io/#data-world">🔎 Data World</a> |
+<a href="https://fabriziocominetti.github.io/#football-analytics">⚽ Football Analytics</a>
 </p>
 
 </center>
