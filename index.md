@@ -8,9 +8,8 @@ SELECT * FROM sections;
 <p align="center">
 <a href="https://fabriziocominetti.github.io/#university">🎓 University</a> |
 <a href="https://fabriziocominetti.github.io/#data-world">🔎 Data World</a> |
-<a href="https://fabriziocominetti.github.io/#football-analytics">⚽ Football Analytics</a>
+<a href="https://fabriziocominetti.github.io/#football-analytics">⚽ Football</a>
 </p>
-
 </center>
 
 ---
@@ -39,8 +38,8 @@ Collection of projects completed for the university courses of the Master's Degr
 ---
 ### Master's Thesis
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-yellow?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Master's%20Thesis/Cominetti_Fabrizio-Tesi_LMDS.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Master's%20Thesis)
+[![Open Research Poster](https://img.shields.io/badge/PDF-darkred?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Master's%20Thesis/Cominetti_Fabrizio-Tesi_LMDS.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Master's%20Thesis)
 
 **Exposing Bias in Vision-Language Models**
 
@@ -57,8 +56,8 @@ Collection of projects completed for the university courses of the Master's Degr
 ---
 ### Social Media Analytics
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-yellow?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Social%20Media%20Analytics/Report_SMA.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Social%20Media%20Analytics)
+[![Open Research Poster](https://img.shields.io/badge/PDF-darkred?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Social%20Media%20Analytics/Report_SMA.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Social%20Media%20Analytics)
 
 **Smart Working - Social Network and Content Analysis** `|` [_Social Media Analytics_](https://elearning.unimib.it/course/info.php?id=44573), UniMiB (2023).
 
@@ -69,8 +68,8 @@ Collection of projects completed for the university courses of the Master's Degr
 ---
 ### Financial Market Analytics
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-yellow?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Financial%20Market%20Analytics/Report_FM.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Financial%20Market%20Analytics)
+[![Open Research Poster](https://img.shields.io/badge/PDF-darkred?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Financial%20Market%20Analytics/Report_FM.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Financial%20Market%20Analytics)
 
 **Portfolio Analysis** `|` [_Financial Market Analytics_](https://elearning.unimib.it/course/info.php?id=37918), UniMiB (2022).
 
@@ -81,8 +80,8 @@ Collection of projects completed for the university courses of the Master's Degr
 ---
 ### Machine Learning
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-yellow?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Machine%20Learning/Report_ML.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Machine%20Learning)
+[![Open Research Poster](https://img.shields.io/badge/PDF-darkred?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Machine%20Learning/Report_ML.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Machine%20Learning)
 
 **Climate Change - Temperature Prediction** `|` [_Machine Learning and Decision Models_](https://elearning.unimib.it/course/info.php?id=37912), UniMiB (2022).
 
@@ -93,8 +92,8 @@ Collection of projects completed for the university courses of the Master's Degr
 ---
 ### Data Management
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-yellow?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Management/Report_DM.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Management)
+[![Open Research Poster](https://img.shields.io/badge/PDF-darkred?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Management/Report_DM.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Management)
 
 **Marvel Graph Database** `|` [_Data Management_](https://elearning.unimib.it/course/info.php?id=37922), UniMiB (2022).
 
@@ -105,9 +104,9 @@ Collection of projects completed for the university courses of the Master's Degr
 ---
 ### Data Visualization
 
-[![Open in Browser](https://img.shields.io/badge/HTML-Open%20in%20Browser-yellow)](./projects/data-visualization-UniMiB/data-visualization-UniMiB.html)
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-yellow?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Visualization/Report_DV.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Visualization)
+[![Open in Browser](https://img.shields.io/badge/HTML-grey?logo=html5&logoColor=white)](./projects/data-visualization-UniMiB/data-visualization-UniMiB.html)
+[![Open Research Poster](https://img.shields.io/badge/PDF-darkred?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Visualization/Report_DV.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Visualization)
 
 **Film - Rating and Duration Time** `|` [_Data Visualization_](https://elearning.unimib.it/course/info.php?id=26218#en), UniMiB (2022).
 
@@ -118,8 +117,8 @@ Collection of projects completed for the university courses of the Master's Degr
 ---
 ### Text Mining and Search
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-yellow?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Text%20Mining%20and%20Search/Report_TMS.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Text%20Mining%20and%20Search)
+[![Open Research Poster](https://img.shields.io/badge/PDF-darkred?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Text%20Mining%20and%20Search/Report_TMS.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Text%20Mining%20and%20Search)
 
 **IMDb Reviews - Text Classification and Clustering** `|` [_Text Mining and Search_](https://elearning.unimib.it/course/info.php?id=44576), UniMiB (2023).
 
@@ -130,8 +129,8 @@ Collection of projects completed for the university courses of the Master's Degr
 ---
 ### Data Science Lab on Smart Cities
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-yellow?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Science%20Lab%20on%20Smart%20Cities/Report_DSLab-SmartCities.pdf)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Science%20Lab%20on%20Smart%20Cities)
+[![Open Research Poster](https://img.shields.io/badge/PDF-darkred?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/fabriziocominetti/data-science-UniMiB/blob/main/Data%20Science%20Lab%20on%20Smart%20Cities/Report_DSLab-SmartCities.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/data-science-UniMiB/tree/main/Data%20Science%20Lab%20on%20Smart%20Cities)
 
 **Mobility in Northern Sardinia** `|` [_Data Science Lab on Smart Cities_](https://elearning.unimib.it/course/info.php?id=44571), UniMiB (2023).
 
@@ -164,7 +163,7 @@ Collection of various data science and data analytics projects (2021-now) `|` [G
 ---
 ### FantaSanremo
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/fantasanremo)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/fantasanremo)
 
 **FantaSanremo 2023** - Trend and Sentiment Analysis
 
@@ -177,8 +176,8 @@ Collection of various data science and data analytics projects (2021-now) `|` [G
 ---
 ### The Office
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/the-office)
-[![View on Kaggle](https://img.shields.io/badge/Kaggle-View_on_Kaggle-yellow?logo=Kaggle)](https://kaggle.com/fabriziocominetti/the-office-lines)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/the-office)
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=Kaggle)](https://kaggle.com/fabriziocominetti/the-office-lines)
 
 **The Office GPT** - Web Scraping, Sentiment Analysis and NanoGPT
 
@@ -191,7 +190,7 @@ Collection of various data science and data analytics projects (2021-now) `|` [G
 ---
 ### TV Ratings
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/tv-ratings)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/tv-ratings)
 
 **IMDb Ratings** - Data Analysis
 
@@ -204,7 +203,7 @@ Collection of various data science and data analytics projects (2021-now) `|` [G
 ---
 ### Billboard Hot-100 EDA
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/billboard)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/billboard)
 
 **Billboard's Hot-100 Weekly Charts** - Exploratory Data Analysis
 
@@ -215,7 +214,7 @@ Collection of various data science and data analytics projects (2021-now) `|` [G
 ---
 ### Morbius
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/morbius)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/morbius)
 
 **Morbius & Moon Knight** - Sentiment Data Analysis
 
@@ -226,8 +225,8 @@ Collection of various data science and data analytics projects (2021-now) `|` [G
 ---
 ### Player Recommender Tool
 
-<!-- [![Open Web App](https://img.shields.io/badge/Streamlit-Open_Web_App-yellow?logo=Streamlit)](https://huggingface.co/spaces/fcx1/Football-Player_Recommender-Tool) -->
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/player-recommender)
+<!-- [![Open Web App](https://img.shields.io/badge/Streamlit-red?logo=Streamlit&logoColor=white)](https://huggingface.co/spaces/fcx1/Football-Player_Recommender-Tool) -->
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/player-recommender)
 
 **Data-Driven Football Scouting Tool** - Streamlit Web App
 
@@ -238,8 +237,8 @@ Collection of various data science and data analytics projects (2021-now) `|` [G
 ---
 ### Serie A xG
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-yellow?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-SerieA-2122)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-yellow?logo=Jupyter)](projects/xG-serieA_2122.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-SerieA-2122)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-grey?logo=Jupyter)](projects/xG-serieA_2122.html)
 
 **Serie A Expected Goals Performance** - Web Scraping and Exploratory Data Analysis
 
