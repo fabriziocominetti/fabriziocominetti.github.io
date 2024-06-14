@@ -225,7 +225,7 @@ Collection of various data science and data analytics projects (2021-now) `|` [G
 ---
 ### Player Recommender Tool
 
-<!-- [![Open Web App](https://img.shields.io/badge/Streamlit-red?logo=Streamlit&logoColor=white)](https://huggingface.co/spaces/fcx1/Football-Player_Recommender-Tool) -->
+[![Open Web App](https://img.shields.io/badge/Streamlit-red?logo=Streamlit&logoColor=white)](https://huggingface.co/spaces/fcx1/player-recommender)
 [![View on GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/fabriziocominetti/football-analytics/tree/main/player-recommender)
 
 **Data-Driven Football Scouting Tool** - Streamlit Web App
