@@ -272,6 +272,10 @@ Collection of various football analytics projects and visualizations (2021-now) 
 
 **Playing Time** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/playing-time)
 
+<center><img src ="./images/projects/player-shotmap_leao.png" alt="Player Shotmap"></center>
+
+**Player Shotmap** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/player-shotmap)
+
 <center><img src ="./images/projects/tiled-shots_serieA.png" alt="Tiled Shots Map"></center>
 
 **Tiled Shots Map** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/tiled-shot-maps)
