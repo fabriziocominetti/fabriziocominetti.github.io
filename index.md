@@ -268,6 +268,10 @@ Collection of various football analytics projects and visualizations (2021-now) 
 
 **xG Scatter Plot** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/xG-scatter)
 
+<center><img src ="./images/projects/under-over-performers.png" alt="Under & Overperformers"></center>
+
+**Under & Overperformers** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/under-over-performers)
+
 <center><img src ="./images/projects/euro2024-Italy-pt.png" alt="Playing Time"></center>
 
 **Playing Time** `|` [Code](https://github.com/fabriziocominetti/football-analytics/tree/main/playing-time)
