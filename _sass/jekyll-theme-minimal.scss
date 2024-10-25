@@ -273,7 +273,6 @@ footer {
   }
 }
 
-
 // responsività immagine profilo
 
 @media screen and (max-width: 480px) {
@@ -283,10 +282,4 @@ footer {
     display: block; /* Necessario per centrare con margin auto */
     margin: 0 auto; /* Centra l'immagine */
   }
-}
-
-// grandezza testo description
-
-.description {
-  font-size: 2.5em; /* Increase the size as needed */
 }
