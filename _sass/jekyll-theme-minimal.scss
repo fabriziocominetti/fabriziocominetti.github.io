@@ -278,7 +278,9 @@ footer {
 
 @media screen and (max-width: 480px) {
   header img {
-    width: 50%; /* Sostituisci con la larghezza desiderata per i dispositivi mobili */
+    width: 75%; /* Sostituisci con la larghezza desiderata per i dispositivi mobili */
     height: auto; /* Mantiene le proporzioni */
+    display: block; /* Necessario per centrare con margin auto */
+    margin: 0 auto; /* Centra l'immagine */
   }
 }
